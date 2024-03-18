@@ -1,0 +1,12 @@
+﻿//Creating parameterized handler to launch the browser
+
+to handle LaunchBrowserandSearchforwikipedia URL
+
+	DoubleClick "Chrome-Images/Img-Chrome-Icon"
+	WaitFor 7, "Chrome-Images/Img-Google-Searchbox.png" //Conditional wait
+	Click "Chrome-Images/Img-Google-Searchbox.png"
+	TypeText URL
+	TypeText return //Enter statement
+	wait 2 //Hard wait
+	
+end LaunchBrowserandSearchforwikipedia

@@ -1,0 +1,20 @@
+﻿//Modularization : Works on 3 rules of thumb 
+//1. Identify reocurring scenarios 
+//2. Reusing functions within functions
+//3. Simplifying Approaches
+
+//Do's :
+//Add parameters to the functions to make the function more reusable
+//Limit handlers to specify functionality
+
+//Handlers are message list withing the script
+
+
+//Calling the handler to launch the browser
+
+Common.LaunchBrowserandSearchforwikipedia "www.wikipedia.com"
+
+
+
+
+

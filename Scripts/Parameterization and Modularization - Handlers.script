@@ -1,0 +1,47 @@
+﻿//Handlers : 
+//3 types :  Generic, Common, Function
+
+//Generic handler is the common handler we use, we use ''to'' and ''end'' in generic handler
+
+to handle LaunchBrowserandSearchforwikipedia URL
+
+	DoubleClick "Chrome-Images/Img-Chrome-Icon"
+	WaitFor 7, "Chrome-Images/Img-Google-Searchbox.png" //Conditional wait
+	Click "Chrome-Images/Img-Google-Searchbox.png"
+	TypeText URL
+	TypeText return //Enter statement
+	wait 2 //Hard wait
+	
+end LaunchBrowserandSearchforwikipedia
+
+
+
+//Command handler : It is the handler began with the keyword "On" and handle messages by command, and they will perform series of actions and doesn't returns any value
+
+addToTotal 60
+
+Set Global total to "10"
+
+
+on addToTotal newAmount
+	
+	add newAmount to Global total
+	log Global total
+	
+end addToTotal
+
+
+
+//Function handler: it is the message handler which chooses to respond, it starts with function keyword 
+
+put getTotal() into MyNumber
+Log MyNumber
+
+function getTotal
+	
+	return 10
+	
+end getTotal
+
+
+
