@@ -1,0 +1,52 @@
+{
+	"entries": [
+		{
+				"message": "Running GlobalVariable and PropertyLists.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 15:03:16.663 +0530"
+			},
+		{
+				"handlerName": "on_globalvariable_and_propertylists",
+				"timestamp": "2024-03-14 15:03:16.766 +0530",
+				"message": "PlayerName 3 is :  Ronaldo",
+				"scriptName": "GlobalVariable and PropertyLists.script",
+				"handlerLine": 4,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_globalvariable_and_propertylists",
+				"timestamp": "2024-03-14 15:03:16.782 +0530",
+				"message": "{FirstName:\"Vishal\", LastName:\"Thakur\", Tool:\"Eggplant\"}",
+				"scriptName": "GlobalVariable and PropertyLists.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_globalvariable_and_propertylists",
+				"timestamp": "2024-03-14 15:03:16.790 +0530",
+				"message": "Vishal",
+				"scriptName": "GlobalVariable and PropertyLists.script",
+				"handlerLine": 10,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_globalvariable_and_propertylists",
+				"timestamp": "2024-03-14 15:03:16.798 +0530",
+				"message": "Thakur",
+				"scriptName": "GlobalVariable and PropertyLists.script",
+				"handlerLine": 11,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.156\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-14 15:03:16 +0530\", Successes:\"1\", TestCase:\"GlobalVariable and PropertyLists.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 15:03:16.826 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 GlobalVariable and PropertyLists.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-14 15:03:16.880 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 15:03:16.668 +0530"
+}

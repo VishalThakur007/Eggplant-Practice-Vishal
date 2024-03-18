@@ -1,0 +1,7 @@
+﻿2024-03-15 12:57:47.998 +0530	START		Running Session2-GlobalVariable and PropertyLists.script
+2024-03-15 12:57:48.112 +0530	Log		PlayerName 3 is :  Ronaldo	4	on_session2_globalvariable_and_propertylists	Session2-GlobalVariable and PropertyLists.script
+2024-03-15 12:57:48.123 +0530	Log		{FirstName:"Vishal", LastName:"Thakur", Tool:"Eggplant"}	9	on_session2_globalvariable_and_propertylists	Session2-GlobalVariable and PropertyLists.script
+2024-03-15 12:57:48.128 +0530	Log		Vishal	10	on_session2_globalvariable_and_propertylists	Session2-GlobalVariable and PropertyLists.script
+2024-03-15 12:57:48.134 +0530	Log		Thakur	11	on_session2_globalvariable_and_propertylists	Session2-GlobalVariable and PropertyLists.script
+2024-03-15 12:57:48.159 +0530	EndTestCase		(Duration:"0.138", Errors:"0", Exceptions:"0", StartTime:"2024-03-15 12:57:48 +0530", Successes:"1", TestCase:"Session2-GlobalVariable and PropertyLists.script", Warnings:"0")
+2024-03-15 12:57:48.244 +0530	SUCCESS		Execution Time 0:00:00 Session2-GlobalVariable and PropertyLists.script

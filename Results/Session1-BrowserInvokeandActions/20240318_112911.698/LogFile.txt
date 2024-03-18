@@ -1,0 +1,4 @@
+﻿2024-03-18 11:29:11.720 +0530	START		Running Session1-BrowserInvokeandActions.script
+2024-03-18 11:29:34.656 +0530	Exception	Chrome-Images/Img-Chrome-Icon	No Image Found On Screen: "Chrome-Images/Img-Chrome-Icon"	1	on_session1_browserinvokeandactions	Session1-BrowserInvokeandActions.script
+2024-03-18 11:29:34.767 +0530	EndTestCase		(Duration:"23.035", Errors:"1", Exceptions:"1", StartTime:"2024-03-18 11:29:11 +0530", Successes:"0", TestCase:"Session1-BrowserInvokeandActions.script", Warnings:"0")
+2024-03-18 11:29:35.614 +0530	FAILURE	Screen_Error.png	Image Not Found: doubleclick Error - No Image Found On Screen: "Chrome-Images/Img-Chrome-Icon" -- Execution Time 0:00:23 Session1-BrowserInvokeandActions.script

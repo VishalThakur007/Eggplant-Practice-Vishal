@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Session3-Logs, IF-else and Assert_script" package="my new demo.suite" timestamp="2024-03-15 12:25:20.348 +0530"
+ tests="1"  failures="2" errors="0" time="0.333000">
+  <properties>
+   <property name="RunDate" value="2024-03-15 12:25:20.348 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Session3-Logs, IF-else and Assert.script" assertions="3" status="failure"  time="0.301">
+    <failure type="LogError" message="Alert !!" />
+    <failure type="FAILURE" message="Script Error: Number of Errors logged: 1 -- Execution Time 0:00:00 Session3-Logs, IF-else and Assert.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

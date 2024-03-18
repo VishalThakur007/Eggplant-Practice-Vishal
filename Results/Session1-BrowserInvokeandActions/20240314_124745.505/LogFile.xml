@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="First Script_script" package="my new demo.suite" timestamp="2024-03-14 12:47:45.505 +0530"
+ tests="1"  failures="1" errors="0" time="4.332000">
+  <properties>
+   <property name="RunDate" value="2024-03-14 12:47:45.505 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="First Script.script" assertions="1" status="failure"  time="4.311">
+    <failure type="FAILURE" message="STUnknownMessage: ERROR: No Such Command: &apos;enter&apos; -- Execution Time 0:00:04 First Script.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

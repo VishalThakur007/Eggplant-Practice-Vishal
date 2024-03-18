@@ -1,0 +1,9 @@
+﻿2024-03-14 15:16:36.542 +0530	START		Running Waits.script
+2024-03-14 15:16:36.755 +0530	doubleclick	Img-Chrome-Icon	at (37, 345)	1	on_waits	Waits.script
+2024-03-14 15:16:40.211 +0530	waitfor	Img-Google-Searchbox.png	found at (635, 406)	2	on_waits	Waits.script
+2024-03-14 15:16:40.313 +0530	click	Img-Google-Searchbox.png	at (635, 406)	3	on_waits	Waits.script
+2024-03-14 15:16:41.231 +0530	typetext		www.wikipedia.com	4	on_waits	Waits.script
+2024-03-14 15:16:41.949 +0530	typetext		[return]	5	on_waits	Waits.script
+2024-03-14 15:16:43.955 +0530	Log		Local variable is  Messi	8	on_waits	Waits.script
+2024-03-14 15:16:43.974 +0530	EndTestCase		(Duration:"7.422", Errors:"0", Exceptions:"0", StartTime:"2024-03-14 15:16:36 +0530", Successes:"1", TestCase:"Waits.script", Warnings:"0")
+2024-03-14 15:16:44.025 +0530	SUCCESS		Execution Time 0:00:07 Waits.script

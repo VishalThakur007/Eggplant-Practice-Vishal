@@ -1,0 +1,11 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2024-03-14 16:10:18.236 +0530,"Success",0:00:00,0,0,0,"20240314_161018.236/LogFile.txt","","",1
+2024-03-14 16:14:44.717 +0530,"Success",0:00:00,0,1,0,"20240314_161444.717/LogFile.txt","","",1
+2024-03-14 16:15:39.201 +0530,"Failure",0:00:00,1,1,0,"20240314_161539.201/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2024-03-14 16:15:48.302 +0530,"Failure",0:00:00,1,1,0,"20240314_161548.302/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2024-03-14 16:24:27.339 +0530,"Failure",0:00:00,1,0,0,"20240314_162427.339/LogFile.txt","","SenseTalk Compiler Exception -- in session4_logs__if_else_and_assert:\nSyntax Error at line 20: can't understand [end of script] at character 60",0
+2024-03-14 16:24:46.096 +0530,"Failure",0:00:03,2,2,0,"20240314_162446.096/LogFile.txt","","AssertionFailed -- (false: ImageFound(""Chrome-Images/Img-Chrome-Icon.png""))",0
+2024-03-14 16:25:20.042 +0530,"Failure",0:00:00,1,1,0,"20240314_162520.042/LogFile.txt","","Script Error -- Number of Errors logged: 1",2
+2024-03-15 12:24:43.490 +0530,"Failure",0:00:00,1,1,0,"20240315_122443.490/LogFile.txt","","Script Error -- Number of Errors logged: 1",2
+2024-03-15 12:25:11.083 +0530,"Success",0:00:00,0,1,0,"20240315_122511.083/LogFile.txt","","",2
+2024-03-15 12:25:20.348 +0530,"Failure",0:00:00,1,1,0,"20240315_122520.348/LogFile.txt","","Script Error -- Number of Errors logged: 1",2

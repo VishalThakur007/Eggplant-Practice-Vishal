@@ -1,0 +1,79 @@
+{
+	"entries": [
+		{
+				"message": "Running Session3-Logs, IF-else and Assert.script",
+				"identifier": "START",
+				"timestamp": "2024-03-15 12:24:43.506 +0530"
+			},
+		{
+				"handlerName": "on_session3_logs__if_else_and_assert",
+				"timestamp": "2024-03-15 12:24:43.603 +0530",
+				"message": "Starting test script",
+				"scriptName": "Session3-Logs, IF-else and Assert.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_session3_logs__if_else_and_assert",
+				"timestamp": "2024-03-15 12:24:43.616 +0530",
+				"message": "Please be careful when you are using eggplant",
+				"scriptName": "Session3-Logs, IF-else and Assert.script",
+				"handlerLine": 5,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_session3_logs__if_else_and_assert",
+				"timestamp": "2024-03-15 12:24:43.624 +0530",
+				"message": "Alert !!",
+				"scriptName": "Session3-Logs, IF-else and Assert.script",
+				"handlerLine": 8,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "on_session3_logs__if_else_and_assert",
+				"timestamp": "2024-03-15 12:24:43.671 +0530",
+				"scriptName": "Session3-Logs, IF-else and Assert.script",
+				"message": "found at (37, 345)",
+				"image": "Chrome-Images/Img-Chrome-Icon",
+				"handlerLine": 11,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_session3_logs__if_else_and_assert",
+				"timestamp": "2024-03-15 12:24:43.679 +0530",
+				"message": "Image found",
+				"scriptName": "Session3-Logs, IF-else and Assert.script",
+				"handlerLine": 14,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_session3_logs__if_else_and_assert",
+				"timestamp": "2024-03-15 12:24:43.708 +0530",
+				"scriptName": "Session3-Logs, IF-else and Assert.script",
+				"message": "found at (37, 345)",
+				"image": "Chrome-Images/Img-Chrome-Icon.png",
+				"handlerLine": 21,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_session3_logs__if_else_and_assert",
+				"timestamp": "2024-03-15 12:24:43.712 +0530",
+				"message": "Assertion Succeeded: (true: ImageFound(\"Chrome-Images/Img-Chrome-Icon.png\"))",
+				"scriptName": "Session3-Logs, IF-else and Assert.script",
+				"handlerLine": 21,
+				"identifier": "LogSuccess"
+			},
+		{
+				"message": "(Duration:\"0.253\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-03-15 12:24:43 +0530\", Successes:\"2\", TestCase:\"Session3-Logs, IF-else and Assert.script\", Warnings:\"1\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-15 12:24:43.772 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Script Error: Number of Errors logged: 1 -- Execution Time 0:00:00 Session3-Logs, IF-else and Assert.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-15 12:24:44.055 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-15 12:24:43.517 +0530"
+}

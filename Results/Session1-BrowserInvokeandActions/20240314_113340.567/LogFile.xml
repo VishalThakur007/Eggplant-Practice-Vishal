@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="First Script_script" package="my new demo.suite" timestamp="2024-03-14 11:33:40.567 +0530"
+ tests="1"  failures="1" errors="1" time="25.799000">
+  <properties>
+   <property name="RunDate" value="2024-03-14 11:33:40.567 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="First Script.script" assertions="1" status="error"  time="25.767">
+    <failure type="FAILURE" message="Image Not Found: waitfor Error - Unable To Find Any Image On Screen &quot;Img-Chrome-FullScreen.png&quot; within 5.00 seconds -- Execution Time 0:00:25 First Script.script" />
+    <error type="Exception" message="Unable To Find Any Image On Screen &quot;Img-Chrome-FullScreen.png&quot; within 5.00 seconds" />
+  </testcase>
+ </testsuite>
+</testsuites>

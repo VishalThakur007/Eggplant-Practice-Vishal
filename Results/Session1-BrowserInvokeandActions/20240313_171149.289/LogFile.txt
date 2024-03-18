@@ -1,0 +1,3 @@
+﻿2024-03-13 17:11:49.313 +0530	START		Running First Script.script
+2024-03-13 17:11:49.506 +0530	EndTestCase		(Duration:"0.185", Errors:"1", Exceptions:"0", StartTime:"2024-03-13 17:11:49 +0530", Successes:"0", TestCase:"First Script.script", Warnings:"0")
+2024-03-13 17:11:49.690 +0530	FAILURE	Screen_Error.png	STInvalidNumber: Value is not a number: '￼' -- Execution Time 0:00:00 First Script.script

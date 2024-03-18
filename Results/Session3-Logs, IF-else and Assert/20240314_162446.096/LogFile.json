@@ -1,0 +1,71 @@
+{
+	"entries": [
+		{
+				"message": "Running Session4-Logs, IF-else and Assert.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 16:24:46.105 +0530"
+			},
+		{
+				"handlerName": "on_session4_logs__if_else_and_assert",
+				"timestamp": "2024-03-14 16:24:46.159 +0530",
+				"message": "Starting test script",
+				"scriptName": "Session4-Logs, IF-else and Assert.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_session4_logs__if_else_and_assert",
+				"timestamp": "2024-03-14 16:24:46.166 +0530",
+				"message": "Please be careful when you are using eggplant",
+				"scriptName": "Session4-Logs, IF-else and Assert.script",
+				"handlerLine": 5,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_session4_logs__if_else_and_assert",
+				"timestamp": "2024-03-14 16:24:46.172 +0530",
+				"message": "Alert !!",
+				"scriptName": "Session4-Logs, IF-else and Assert.script",
+				"handlerLine": 8,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "on_session4_logs__if_else_and_assert",
+				"timestamp": "2024-03-14 16:24:48.061 +0530",
+				"scriptName": "Session4-Logs, IF-else and Assert.script",
+				"message": "Unable to Find Image Chrome-Images/Img-Chrome-Icon",
+				"image": "Chrome-Images/Img-Chrome-Icon",
+				"handlerLine": 11,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_session4_logs__if_else_and_assert",
+				"timestamp": "2024-03-14 16:24:48.066 +0530",
+				"message": "Image not found",
+				"scriptName": "Session4-Logs, IF-else and Assert.script",
+				"handlerLine": 16,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_session4_logs__if_else_and_assert",
+				"timestamp": "2024-03-14 16:24:49.947 +0530",
+				"scriptName": "Session4-Logs, IF-else and Assert.script",
+				"message": "Unable to Find Image Chrome-Images/Img-Chrome-Icon.png",
+				"image": "Chrome-Images/Img-Chrome-Icon.png",
+				"handlerLine": 21,
+				"identifier": "imagefound"
+			},
+		{
+				"message": "(Duration:\"3.864\", Errors:\"2\", Exceptions:\"0\", StartTime:\"2024-03-14 16:24:46 +0530\", Successes:\"0\", TestCase:\"Session4-Logs, IF-else and Assert.script\", Warnings:\"2\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 16:24:49.978 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "AssertionFailed: (false: ImageFound(\"Chrome-Images/Img-Chrome-Icon.png\")) -- Execution Time 0:00:03 Session4-Logs, IF-else and Assert.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-14 16:24:50.108 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 16:24:46.112 +0530"
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="BrowserInvokeandActions_script" package="my new demo.suite" timestamp="2024-03-14 15:53:26.860 +0530"
+ tests="1"  failures="0" errors="0" time="6.185000">
+  <properties>
+   <property name="RunDate" value="2024-03-14 15:53:26.860 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="BrowserInvokeandActions.script" assertions="1" status="error"  time="6.153">
+    <error type="Exception" message="No Image Found On Screen: &quot;Chrome-Images/Img-Chrome-Icon&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

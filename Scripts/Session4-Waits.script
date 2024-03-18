@@ -1,0 +1,8 @@
+﻿DoubleClick "Chrome-Images/Img-Chrome-Icon"
+WaitFor 5, "Chrome-Images/Img-Google-Searchbox" //Conditional wait
+Click "Chrome-Images/Img-Google-Searchbox.png"
+TypeText "www.wikipedia.com"
+TypeText return //Enter statement
+wait 2 //Hard wait
+Put "Messi" into PlayerName //Local Variable
+Log "Local variable is " &&PlayerName //Console print

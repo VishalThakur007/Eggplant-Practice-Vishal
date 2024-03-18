@@ -1,0 +1,4 @@
+﻿2024-03-14 15:16:20.135 +0530	START		Running Waits.script
+2024-03-14 15:16:35.720 +0530	Exception	Img-Chrome-Icon	No Image Found On Screen: "Img-Chrome-Icon"	1	on_waits	Waits.script
+2024-03-14 15:16:35.765 +0530	EndTestCase		(Duration:"15.624", Errors:"1", Exceptions:"1", StartTime:"2024-03-14 15:16:20 +0530", Successes:"0", TestCase:"Waits.script", Warnings:"0")
+2024-03-14 15:16:35.776 +0530	ABORTED		Execution Time 0:00:15 Waits.script

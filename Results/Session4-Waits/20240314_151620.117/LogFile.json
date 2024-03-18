@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running Waits.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 15:16:20.135 +0530"
+			},
+		{
+				"handlerName": "on_waits",
+				"timestamp": "2024-03-14 15:16:35.720 +0530",
+				"scriptName": "Waits.script",
+				"message": "No Image Found On Screen: \"Img-Chrome-Icon\"",
+				"image": "Img-Chrome-Icon",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"15.624\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-14 15:16:20 +0530\", Successes:\"0\", TestCase:\"Waits.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 15:16:35.765 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:15 Waits.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-14 15:16:35.776 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 15:16:20.140 +0530"
+}

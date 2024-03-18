@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="First Script_script" package="my new demo.suite" timestamp="2024-03-14 13:08:12.677 +0530"
+ tests="1"  failures="0" errors="0" time="18.564000">
+  <properties>
+   <property name="RunDate" value="2024-03-14 13:08:12.677 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="First Script.script" assertions="1" status="error"  time="18.523">
+    <error type="Exception" message="No Image Found On Screen: &quot;Img-Chrome-Icon&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

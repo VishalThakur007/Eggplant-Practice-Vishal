@@ -1,0 +1,71 @@
+{
+	"entries": [
+		{
+				"message": "Running Waits.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 15:16:36.542 +0530"
+			},
+		{
+				"handlerName": "on_waits",
+				"timestamp": "2024-03-14 15:16:36.755 +0530",
+				"scriptName": "Waits.script",
+				"message": "at (37, 345)",
+				"image": "Img-Chrome-Icon",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_waits",
+				"timestamp": "2024-03-14 15:16:40.211 +0530",
+				"scriptName": "Waits.script",
+				"message": "found at (635, 406)",
+				"image": "Img-Google-Searchbox.png",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_waits",
+				"timestamp": "2024-03-14 15:16:40.313 +0530",
+				"scriptName": "Waits.script",
+				"message": "at (635, 406)",
+				"image": "Img-Google-Searchbox.png",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_waits",
+				"timestamp": "2024-03-14 15:16:41.231 +0530",
+				"message": "www.wikipedia.com",
+				"scriptName": "Waits.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_waits",
+				"timestamp": "2024-03-14 15:16:41.949 +0530",
+				"message": "[return]",
+				"scriptName": "Waits.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_waits",
+				"timestamp": "2024-03-14 15:16:43.955 +0530",
+				"message": "Local variable is  Messi",
+				"scriptName": "Waits.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"7.422\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-14 15:16:36 +0530\", Successes:\"1\", TestCase:\"Waits.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 15:16:43.974 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:07 Waits.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-14 15:16:44.025 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 15:16:36.552 +0530"
+}

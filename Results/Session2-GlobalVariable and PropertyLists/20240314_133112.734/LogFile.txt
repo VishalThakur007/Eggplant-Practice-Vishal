@@ -1,0 +1,4 @@
+﻿2024-03-14 13:31:12.747 +0530	START		Running Second Script.script
+2024-03-14 13:31:12.806 +0530	Log		Second player name is :  PlayerName2	2	on_second_script	Second Script.script
+2024-03-14 13:31:12.855 +0530	EndTestCase		(Duration:"0.101", Errors:"0", Exceptions:"0", StartTime:"2024-03-14 13:31:12 +0530", Successes:"1", TestCase:"Second Script.script", Warnings:"0")
+2024-03-14 13:31:12.903 +0530	SUCCESS		Execution Time 0:00:00 Second Script.script

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Session4-Logs">
+ <run>
+  <RunDate>2024-03-14 16:10:18.236 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.135000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240314_161018.236/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 16:14:44.717 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.124000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240314_161444.717/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 16:15:39.201 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.167000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240314_161539.201/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 16:15:48.302 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.133000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240314_161548.302/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 16:24:27.339 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.051000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240314_162427.339/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in session4_logs__if_else_and_assert:
+Syntax Error at line 20: can&#x27;t understand [end of script] at character 60</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 16:24:46.096 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>3.880000</Duration>
+  <Errors>2</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240314_162446.096/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed -- (false: ImageFound(&quot;Chrome-Images/Img-Chrome-Icon.png&quot;))</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 16:25:20.042 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.245000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20240314_162520.042/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-15 12:24:43.490 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.280000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20240315_122443.490/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-15 12:25:11.083 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.377000</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20240315_122511.083/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-15 12:25:20.348 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.333000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20240315_122520.348/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,31 @@
+﻿//OCR = Optical character recognition:
+//Use of OCR is to Locate and read the text from the screen
+
+//When to use OCR instead of image capturing ?
+//Avoid having to update your script more each minor UI change of SUT
+//Avoid building large image collection for each state of button or icon that also contains a word
+//Allow working wth dynamic values such as name or numbers
+
+//Wherever we need to restrict the portion of search the text or image element then we use OCR
+
+
+DoubleClick "Chrome-Images/Img-Chrome-Icon"
+WaitFor 5, "Chrome-Images/Img-Google-Searchbox.png" //Conditional wait
+
+Log ImageLocation("Chrome-Images/Img-Google-Searchbox.png") //Returns the [X,Y] cordinates of the image
+
+Log ImageRectangle("Chrome-Images/Img-Google-Searchbox.png") //Returns the all four cordinates of image left,top,right,bottom
+
+Log the top of ImageRectangle("Chrome-Images/Img-Google-Searchbox.png") //returns the top cordinate
+
+Log the bottom of ImageRectangle("Chrome-Images/Img-Google-Searchbox.png") //returns the bottom cordinate
+
+Log the left of ImageRectangle("Chrome-Images/Img-Google-Searchbox.png") //returns the left cordinate
+
+Log the right of ImageRectangle("Chrome-Images/Img-Google-Searchbox.png") //returns the right cordinate
+
+Log the RemoteScreenSize //returns the height and width of the screen of SUT
+
+
+
+

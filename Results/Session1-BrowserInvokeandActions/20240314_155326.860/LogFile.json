@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running BrowserInvokeandActions.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 15:53:26.881 +0530"
+			},
+		{
+				"handlerName": "on_browserinvokeandactions",
+				"timestamp": "2024-03-14 15:53:32.786 +0530",
+				"scriptName": "BrowserInvokeandActions.script",
+				"message": "No Image Found On Screen: \"Chrome-Images/Img-Chrome-Icon\"",
+				"image": "Chrome-Images/Img-Chrome-Icon",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"6.153\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-14 15:53:26 +0530\", Successes:\"0\", TestCase:\"BrowserInvokeandActions.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 15:53:33.047 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:06 BrowserInvokeandActions.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-14 15:53:33.062 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 15:53:26.893 +0530"
+}

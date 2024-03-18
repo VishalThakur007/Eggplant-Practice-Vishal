@@ -1,0 +1,71 @@
+{
+	"entries": [
+		{
+				"message": "Running Session1-BrowserInvokeandActions.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 17:25:11.560 +0530"
+			},
+		{
+				"handlerName": "on_session1_browserinvokeandactions",
+				"timestamp": "2024-03-14 17:25:11.857 +0530",
+				"scriptName": "Session1-BrowserInvokeandActions.script",
+				"message": "at (37, 345)",
+				"image": "Chrome-Images/Img-Chrome-Icon",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_session1_browserinvokeandactions",
+				"timestamp": "2024-03-14 17:25:15.975 +0530",
+				"scriptName": "Session1-BrowserInvokeandActions.script",
+				"message": "found at (635, 406)",
+				"image": "Chrome-Images/Img-Google-Searchbox.png",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_session1_browserinvokeandactions",
+				"timestamp": "2024-03-14 17:25:16.073 +0530",
+				"scriptName": "Session1-BrowserInvokeandActions.script",
+				"message": "at (635, 406)",
+				"image": "Chrome-Images/Img-Google-Searchbox.png",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_session1_browserinvokeandactions",
+				"timestamp": "2024-03-14 17:25:16.993 +0530",
+				"message": "www.wikipedia.com",
+				"scriptName": "Session1-BrowserInvokeandActions.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_session1_browserinvokeandactions",
+				"timestamp": "2024-03-14 17:25:17.712 +0530",
+				"message": "[return]",
+				"scriptName": "Session1-BrowserInvokeandActions.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_session1_browserinvokeandactions",
+				"timestamp": "2024-03-14 17:25:19.717 +0530",
+				"message": "Local variable is  Messi",
+				"scriptName": "Session1-BrowserInvokeandActions.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"8.159\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-14 17:25:11 +0530\", Successes:\"1\", TestCase:\"Session1-BrowserInvokeandActions.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 17:25:19.743 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:08 Session1-BrowserInvokeandActions.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-14 17:25:19.830 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 17:25:11.578 +0530"
+}

@@ -1,0 +1,9 @@
+﻿2024-03-14 15:54:16.180 +0530	START		Running BrowserInvokeandActions.script
+2024-03-14 15:54:16.429 +0530	doubleclick	Chrome-Images/Img-Chrome-Icon	at (37, 345)	1	on_browserinvokeandactions	BrowserInvokeandActions.script
+2024-03-14 15:54:19.240 +0530	waitfor	Chrome-Images/Img-Google-Searchbox.png	found at (635, 406)	2	on_browserinvokeandactions	BrowserInvokeandActions.script
+2024-03-14 15:54:19.385 +0530	click	Chrome-Images/Img-Google-Searchbox.png	at (635, 406)	3	on_browserinvokeandactions	BrowserInvokeandActions.script
+2024-03-14 15:54:20.305 +0530	typetext		www.wikipedia.com	4	on_browserinvokeandactions	BrowserInvokeandActions.script
+2024-03-14 15:54:21.021 +0530	typetext		[return]	5	on_browserinvokeandactions	BrowserInvokeandActions.script
+2024-03-14 15:54:23.026 +0530	Log		Local variable is  Messi	8	on_browserinvokeandactions	BrowserInvokeandActions.script
+2024-03-14 15:54:23.043 +0530	EndTestCase		(Duration:"6.85", Errors:"0", Exceptions:"0", StartTime:"2024-03-14 15:54:16 +0530", Successes:"1", TestCase:"BrowserInvokeandActions.script", Warnings:"0")
+2024-03-14 15:54:23.102 +0530	SUCCESS		Execution Time 0:00:06 BrowserInvokeandActions.script

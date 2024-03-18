@@ -1,0 +1,46 @@
+{
+	"lastmodifieddate": 1710324445.1040001,
+	"lastfoundlocation": [
+		800,
+		76,
+		63,
+		54
+	],
+	"originalcapturelocation": [
+		0,
+		98,
+		63,
+		54
+	],
+	"createddate": 1710324445.1040001,
+	"lastfounddate": 1710329968.684,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[31,27]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Icon_Edge_Browser.png",
+				"connectionname": "192.168.29.208",
+				"type": 1,
+				"capturerect": [
+					0,
+					98,
+					63,
+					54
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.29.208"
+			}
+	],
+	"name": "Icon_Edge_Browser"
+}

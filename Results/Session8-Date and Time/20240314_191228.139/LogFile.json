@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Session8-Date and Time.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 19:12:28.157 +0530"
+			},
+		{
+				"message": "(Duration:\"0.237\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-14 19:12:28 +0530\", Successes:\"1\", TestCase:\"Session8-Date and Time.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 19:12:28.400 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 Session8-Date and Time.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-14 19:12:28.507 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 19:12:28.162 +0530"
+}

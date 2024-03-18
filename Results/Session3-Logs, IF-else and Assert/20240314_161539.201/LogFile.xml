@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Session4-Logs_script" package="my new demo.suite" timestamp="2024-03-14 16:15:39.201 +0530"
+ tests="1"  failures="2" errors="0" time="0.167000">
+  <properties>
+   <property name="RunDate" value="2024-03-14 16:15:39.201 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Session4-Logs.script" assertions="1" status="failure"  time="0.137">
+    <failure type="LogError" message="Alert !!" />
+    <failure type="FAILURE" message="Script Error: Number of Errors logged: 1 -- Execution Time 0:00:00 Session4-Logs.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

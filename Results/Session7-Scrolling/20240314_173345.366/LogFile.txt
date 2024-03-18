@@ -1,0 +1,6 @@
+﻿2024-03-14 17:33:45.379 +0530	START		Running Session7-Scrolling.script
+2024-03-14 17:33:45.653 +0530	doubleclick	Chrome-Images/Img-Chrome-Icon	at (37, 345)	4	on_session7_scrolling	Session7-Scrolling.script
+2024-03-14 17:33:48.790 +0530	waitfor	Chrome-Images/Img-Google-Searchbox.png	found at (635, 406)	5	on_session7_scrolling	Session7-Scrolling.script
+2024-03-14 17:33:48.810 +0530	typetext		[pageDown]	6	on_session7_scrolling	Session7-Scrolling.script
+2024-03-14 17:33:51.826 +0530	EndTestCase		(Duration:"6.431", Errors:"0", Exceptions:"0", StartTime:"2024-03-14 17:33:45 +0530", Successes:"1", TestCase:"Session7-Scrolling.script", Warnings:"0")
+2024-03-14 17:33:51.899 +0530	SUCCESS		Execution Time 0:00:06 Session7-Scrolling.script

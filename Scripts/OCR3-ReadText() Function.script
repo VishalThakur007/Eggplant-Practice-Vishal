@@ -1,0 +1,8 @@
+﻿//ReadText() handler: This handler use is to store the text for a certain area
+
+
+DoubleClick "Chrome-Images/Img-Chrome-Icon"
+WaitFor 5, "Chrome-Images/Img-Google-Searchbox.png" //Conditional wait
+
+
+Put ReadText(", "Google_Main_Img", ")

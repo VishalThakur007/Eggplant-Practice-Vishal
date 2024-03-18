@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		463,
+		217,
+		346,
+		132
+	],
+	"lastmodifieddate": 1710482837.0580001,
+	"createddate": 1710396485.0009999,
+	"name": "GoogleIcon",
+	"lastfounddate": 1710504365.9390001,
+	"ocrcapturestring": "oogle",
+	"lastfoundlocation": [
+		463,
+		217,
+		346,
+		132
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[173,66]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Chrome-Images/GoogleIcon.png",
+				"connectionname": "192.168.29.208",
+				"type": 1,
+				"connectionserverid": "192.168.29.208",
+				"capturerect": [
+					463,
+					217,
+					346,
+					132
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "oogle"
+			}
+	]
+}

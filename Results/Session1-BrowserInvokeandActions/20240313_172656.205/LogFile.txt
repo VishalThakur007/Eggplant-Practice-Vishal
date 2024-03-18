@@ -1,0 +1,6 @@
+﻿2024-03-13 17:26:56.214 +0530	START		Running First Script.script
+2024-03-13 17:26:56.309 +0530	waitfor	Icon-Edge	found at (37, 156)	1	on_first_script	First Script.script
+2024-03-13 17:26:56.492 +0530	doubleclick	Icon-Edge	at (37, 156)	2	on_first_script	First Script.script
+2024-03-13 17:27:19.881 +0530	Exception	Icon-Reload-Browser	Unable To Find Any Image On Screen "Icon-Reload-Browser" within 3.00 seconds	3	on_first_script	First Script.script
+2024-03-13 17:27:20.107 +0530	EndTestCase		(Duration:"23.884", Errors:"1", Exceptions:"1", StartTime:"2024-03-13 17:26:56 +0530", Successes:"0", TestCase:"First Script.script", Warnings:"0")
+2024-03-13 17:27:20.412 +0530	FAILURE	Screen_Error.png	Image Not Found: waitfor Error - Unable To Find Any Image On Screen "Icon-Reload-Browser" within 3.00 seconds -- Execution Time 0:00:23 First Script.script

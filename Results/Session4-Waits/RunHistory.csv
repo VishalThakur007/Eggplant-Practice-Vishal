@@ -1,0 +1,8 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2024-03-14 15:16:20.117 +0530,"Aborted",0:00:15,1,0,1,"20240314_151620.117/LogFile.txt","","",0
+2024-03-14 15:16:36.522 +0530,"Success",0:00:07,0,0,0,"20240314_151636.522/LogFile.txt","","",1
+2024-03-14 15:40:53.332 +0530,"Failure",0:00:00,1,0,1,"20240314_154053.332/LogFile.txt","","File Not Found -- doubleclick Error - Could Not Open Image: Img-Chrome-Icon",0
+2024-03-14 15:41:03.199 +0530,"Failure",0:00:00,1,0,1,"20240314_154103.199/LogFile.txt","","File Not Found -- doubleclick Error - Could Not Open Image: Img-Chrome-Icon",0
+2024-03-14 15:42:50.629 +0530,"Failure",0:00:00,1,0,1,"20240314_154250.629/LogFile.txt","","File Not Found -- doubleclick Error - Could Not Open Image: Img-Chrome-Icon",0
+2024-03-14 15:52:29.133 +0530,"Success",0:00:08,0,0,0,"20240314_155229.133/LogFile.txt","","",1
+2024-03-14 17:25:41.365 +0530,"Failure",0:00:22,1,0,1,"20240314_172541.365/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""Chrome-Images/Img-Chrome-Icon""",0

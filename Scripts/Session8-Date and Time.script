@@ -1,0 +1,11 @@
+﻿//We can use date and time methods which are pre-defined
+
+
+//Date
+put "March 13, 2020" into PandemicStart
+
+put today-PandemicStart //returns value in seconds
+put (today-PandemicStart) as days //returns in days
+
+//Time
+put "April 15" + 3 months //returns July 15th

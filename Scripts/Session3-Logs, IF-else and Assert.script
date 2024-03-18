@@ -1,0 +1,21 @@
+﻿//Log : write the text you provided to the script log, it appears in blue text
+Log "Starting test script" 
+
+//Log Warning : write the message on log and increments the script's warning count, appears in yellow colour
+LogWarning "Please be careful when you are using eggplant"
+
+//Log Error: write the error message on log, appears in red
+LogError "Alert !!"
+
+//Image Found function: it returs an value and we can utilize if-else loop:
+if ImageFound("Chrome-Images/Img-Chrome-Icon")
+then
+	//Perform some actions 
+	LogSuccess "Image found"
+else
+	LogWarning "Image not found"
+	
+end if
+
+//Assert : Check the assertion
+Assert that ImageFound("Chrome-Images/Img-Chrome-Icon.png")

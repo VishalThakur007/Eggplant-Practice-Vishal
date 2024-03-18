@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Session3-Logs, IF-else and Assert_script" package="my new demo.suite" timestamp="2024-03-15 12:25:11.083 +0530"
+ tests="1"  failures="0" errors="0" time="0.377000">
+  <properties>
+   <property name="RunDate" value="2024-03-15 12:25:11.083 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Session3-Logs, IF-else and Assert.script" assertions="2" status="success"  time="0.341">
+  </testcase>
+ </testsuite>
+</testsuites>

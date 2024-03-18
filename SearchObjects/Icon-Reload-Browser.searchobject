@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		55,
+		33,
+		31,
+		35
+	],
+	"lastmodifieddate": 1710324912.678,
+	"createddate": 1710324912.678,
+	"name": "Icon-Reload-Browser",
+	"lastfounddate": 1710331471.2550001,
+	"ocrcapturestring": "0",
+	"lastfoundlocation": [
+		221,
+		926,
+		17,
+		19
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[15,17]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Icon-Reload-Browser.png",
+				"connectionname": "192.168.29.208",
+				"type": 1,
+				"connectionserverid": "192.168.29.208",
+				"capturerect": [
+					55,
+					33,
+					31,
+					35
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "0"
+			}
+	]
+}

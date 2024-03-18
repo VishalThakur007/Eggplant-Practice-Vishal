@@ -1,0 +1,4 @@
+﻿2024-03-15 15:47:47.976 +0530	START		Running OCR-2 Search rectangle.script
+2024-03-15 15:48:10.375 +0530	Exception	Chrome-Images/Img-Chrome-Icon	No Image Found On Screen: "Chrome-Images/Img-Chrome-Icon"	4	on_ocr_2_search_rectangle	OCR-2 Search rectangle.script
+2024-03-15 15:48:10.397 +0530	EndTestCase		(Duration:"22.407", Errors:"1", Exceptions:"1", StartTime:"2024-03-15 15:47:47 +0530", Successes:"0", TestCase:"OCR-2 Search rectangle.script", Warnings:"0")
+2024-03-15 15:48:10.540 +0530	FAILURE	Screen_Error.png	Image Not Found: doubleclick Error - No Image Found On Screen: "Chrome-Images/Img-Chrome-Icon" -- Execution Time 0:00:22 OCR-2 Search rectangle.script

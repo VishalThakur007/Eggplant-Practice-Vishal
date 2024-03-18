@@ -1,0 +1,64 @@
+{
+	"entries": [
+		{
+				"message": "Running OCR-2 Search rectangle.script",
+				"identifier": "START",
+				"timestamp": "2024-03-15 15:33:58.574 +0530"
+			},
+		{
+				"handlerName": "on_ocr_2_search_rectangle",
+				"timestamp": "2024-03-15 15:33:58.802 +0530",
+				"scriptName": "OCR-2 Search rectangle.script",
+				"message": "at (37, 345)",
+				"image": "Chrome-Images/Img-Chrome-Icon",
+				"handlerLine": 4,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_ocr_2_search_rectangle",
+				"timestamp": "2024-03-15 15:34:01.627 +0530",
+				"scriptName": "OCR-2 Search rectangle.script",
+				"message": "found at (635, 406)",
+				"image": "Chrome-Images/Img-Google-Searchbox.png",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_ocr_2_search_rectangle",
+				"timestamp": "2024-03-15 15:34:01.634 +0530",
+				"message": "SEARCHRECTANGLE = [481,433,854,573]",
+				"scriptName": "OCR-2 Search rectangle.script",
+				"handlerLine": 7,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_ocr_2_search_rectangle",
+				"timestamp": "2024-03-15 15:34:02.195 +0530",
+				"scriptName": "OCR-2 Search rectangle.script",
+				"message": "at (527, 531)",
+				"image": "(TEXT:\"Wikipedia\")",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_ocr_2_search_rectangle",
+				"timestamp": "2024-03-15 15:34:37.273 +0530",
+				"scriptName": "OCR-2 Search rectangle.script",
+				"message": "No Image Found On Screen: \"Chrome-Images/Icon-Back\"",
+				"image": "Chrome-Images/Icon-Back",
+				"handlerLine": 11,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"38.737\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-15 15:33:58 +0530\", Successes:\"0\", TestCase:\"OCR-2 Search rectangle.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-15 15:34:37.322 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:38 OCR-2 Search rectangle.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-15 15:34:37.335 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-15 15:33:58.585 +0530"
+}

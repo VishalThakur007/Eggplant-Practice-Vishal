@@ -1,0 +1,45 @@
+{
+	"entries": [
+		{
+				"message": "Running Session4-Logs.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 16:15:39.222 +0530"
+			},
+		{
+				"handlerName": "on_session4_logs",
+				"timestamp": "2024-03-14 16:15:39.321 +0530",
+				"message": "Starting test script",
+				"scriptName": "Session4-Logs.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_session4_logs",
+				"timestamp": "2024-03-14 16:15:39.331 +0530",
+				"message": "Please be careful when you are using eggplant",
+				"scriptName": "Session4-Logs.script",
+				"handlerLine": 5,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_session4_logs",
+				"timestamp": "2024-03-14 16:15:39.342 +0530",
+				"message": "Alert !!",
+				"scriptName": "Session4-Logs.script",
+				"handlerLine": 8,
+				"identifier": "LogError"
+			},
+		{
+				"message": "(Duration:\"0.137\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-03-14 16:15:39 +0530\", Successes:\"0\", TestCase:\"Session4-Logs.script\", Warnings:\"1\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 16:15:39.370 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Script Error: Number of Errors logged: 1 -- Execution Time 0:00:00 Session4-Logs.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-14 16:15:39.504 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 16:15:39.229 +0530"
+}

@@ -1,0 +1,54 @@
+{
+	"entries": [
+		{
+				"message": "Running First Script.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 12:56:46.904 +0530"
+			},
+		{
+				"handlerName": "on_first_script",
+				"timestamp": "2024-03-14 12:56:47.151 +0530",
+				"scriptName": "First Script.script",
+				"message": "at (37, 345)",
+				"image": "Img-Chrome-Icon",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_first_script",
+				"timestamp": "2024-03-14 12:56:52.260 +0530",
+				"scriptName": "First Script.script",
+				"message": "at (635, 406)",
+				"image": "Img-Google-Searchbox.png",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_first_script",
+				"timestamp": "2024-03-14 12:56:53.185 +0530",
+				"message": "www.wikipedia.com",
+				"scriptName": "First Script.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_first_script",
+				"timestamp": "2024-03-14 12:56:53.901 +0530",
+				"message": "[return]",
+				"scriptName": "First Script.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"9.996\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-14 12:56:46 +0530\", Successes:\"1\", TestCase:\"First Script.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 12:56:56.917 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:10 First Script.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-14 12:56:56.960 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 12:56:46.919 +0530"
+}

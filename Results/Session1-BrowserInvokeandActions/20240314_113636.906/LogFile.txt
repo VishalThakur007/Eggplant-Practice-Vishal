@@ -1,0 +1,5 @@
+﻿2024-03-14 11:36:36.915 +0530	START		Running First Script.script
+2024-03-14 11:36:37.190 +0530	doubleclick	Img-Chrome-Icon	at (37, 345)	1	on_first_script	First Script.script
+2024-03-14 11:36:37.891 +0530	typetext			3	on_first_script	First Script.script
+2024-03-14 11:36:37.907 +0530	EndTestCase		(Duration:"0.98", Errors:"0", Exceptions:"0", StartTime:"2024-03-14 11:36:36 +0530", Successes:"1", TestCase:"First Script.script", Warnings:"0")
+2024-03-14 11:36:37.958 +0530	SUCCESS		Execution Time 0:00:01 First Script.script

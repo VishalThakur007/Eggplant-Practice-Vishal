@@ -1,0 +1,5 @@
+﻿2024-03-14 16:38:49.224 +0530	START		Running Session5-Senstalk Functions.script
+2024-03-14 16:38:49.371 +0530	imagefound	Chrome-Images/Img-Chrome-Icon	found at (37, 345)	3	on_session5_senstalk_functions	Session5-Senstalk Functions.script
+2024-03-14 16:38:49.377 +0530	LogSuccess		Image found	6	on_session5_senstalk_functions	Session5-Senstalk Functions.script
+2024-03-14 16:38:49.448 +0530	EndTestCase		(Duration:"0.214", Errors:"0", Exceptions:"0", StartTime:"2024-03-14 16:38:49 +0530", Successes:"1", TestCase:"Session5-Senstalk Functions.script", Warnings:"0")
+2024-03-14 16:38:49.542 +0530	SUCCESS		Execution Time 0:00:00 Session5-Senstalk Functions.script

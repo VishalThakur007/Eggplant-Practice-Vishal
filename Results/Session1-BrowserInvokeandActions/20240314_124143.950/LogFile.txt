@@ -1,0 +1,4 @@
+﻿2024-03-14 12:41:43.966 +0530	START		Running First Script.script
+2024-03-14 12:41:59.675 +0530	Exception	Img-Chrome-Icon	No Image Found On Screen: "Img-Chrome-Icon"	1	on_first_script	First Script.script
+2024-03-14 12:41:59.716 +0530	EndTestCase		(Duration:"15.734", Errors:"1", Exceptions:"1", StartTime:"2024-03-14 12:41:43 +0530", Successes:"0", TestCase:"First Script.script", Warnings:"0")
+2024-03-14 12:41:59.735 +0530	ABORTED		Execution Time 0:00:15 First Script.script

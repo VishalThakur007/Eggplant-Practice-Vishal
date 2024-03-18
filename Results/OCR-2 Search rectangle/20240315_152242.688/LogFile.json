@@ -1,0 +1,55 @@
+{
+	"entries": [
+		{
+				"message": "Running OCR-2 Search rectangle.script",
+				"identifier": "START",
+				"timestamp": "2024-03-15 15:22:42.708 +0530"
+			},
+		{
+				"handlerName": "on_ocr_2_search_rectangle",
+				"timestamp": "2024-03-15 15:22:43.009 +0530",
+				"scriptName": "OCR-2 Search rectangle.script",
+				"message": "at (37, 345)",
+				"image": "Chrome-Images/Img-Chrome-Icon",
+				"handlerLine": 4,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_ocr_2_search_rectangle",
+				"timestamp": "2024-03-15 15:22:47.392 +0530",
+				"scriptName": "OCR-2 Search rectangle.script",
+				"message": "found at (635, 406)",
+				"image": "Chrome-Images/Img-Google-Searchbox.png",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_ocr_2_search_rectangle",
+				"timestamp": "2024-03-15 15:22:47.402 +0530",
+				"message": "SEARCHRECTANGLE = [481,433,854,573]",
+				"scriptName": "OCR-2 Search rectangle.script",
+				"handlerLine": 7,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_ocr_2_search_rectangle",
+				"timestamp": "2024-03-15 15:22:48.930 +0530",
+				"scriptName": "OCR-2 Search rectangle.script",
+				"message": "at (527, 531)",
+				"image": "(TEXT:\"Wikipedia\")",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"11.249\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-15 15:22:42 +0530\", Successes:\"1\", TestCase:\"OCR-2 Search rectangle.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-15 15:22:53.987 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:11 OCR-2 Search rectangle.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-15 15:22:54.103 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-15 15:22:42.730 +0530"
+}

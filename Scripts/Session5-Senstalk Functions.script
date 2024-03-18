@@ -1,0 +1,24 @@
+﻿//Conditional statements: We can use If-else loop here
+
+if ImageFound("Chrome-Images/Img-Chrome-Icon")
+then
+	//Perform some actions 
+	LogSuccess "Image found"
+	else
+	LogWarning "Image not found"
+	
+end if
+
+
+//Repeat : We can repeat the same things multiple times
+
+Repeat 10 times
+	Log "Hello"
+	Log  repeatIndex()
+End Repeat
+
+Repeat until ImageFound("Chrome-Images/Img-Chrome-Icon.png")
+	
+//
+	
+

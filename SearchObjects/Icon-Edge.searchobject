@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		0,
+		104,
+		75,
+		104
+	],
+	"lastmodifieddate": 1710329919.075,
+	"createddate": 1710329919.075,
+	"name": "Icon-Edge",
+	"lastfounddate": 1710331541.8499999,
+	"ocrcapturestring": "V w",
+	"lastfoundlocation": [
+		0,
+		104,
+		75,
+		104
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[37,52]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Icon-Edge.png",
+				"connectionname": "192.168.29.208",
+				"type": 1,
+				"connectionserverid": "192.168.29.208",
+				"capturerect": [
+					0,
+					104,
+					75,
+					104
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "V w"
+			}
+	]
+}

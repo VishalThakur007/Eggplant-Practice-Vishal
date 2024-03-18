@@ -1,0 +1,11 @@
+﻿//EveryImageLocation("") this method returns the no of occurences of a passed img
+
+//Scroll:
+DoubleClick "Chrome-Images/Img-Chrome-Icon"
+WaitFor 5, "Chrome-Images/Img-Google-Searchbox.png" //Conditional wait
+Click "Chrome-Images/Img-Google-Searchbox.png"
+TypeText "www.wikipedia.com"
+TypeText return //Enter statement
+wait 2 //Hard wait
+TypeText pageDown
+TypeText pageUp

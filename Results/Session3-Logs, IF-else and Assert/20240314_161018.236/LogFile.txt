@@ -1,0 +1,4 @@
+﻿2024-03-14 16:10:18.247 +0530	START		Running Session4-Logs.script
+2024-03-14 16:10:18.340 +0530	Log		Starting test script	2	on_session4_logs	Session4-Logs.script
+2024-03-14 16:10:18.373 +0530	EndTestCase		(Duration:"0.116", Errors:"0", Exceptions:"0", StartTime:"2024-03-14 16:10:18 +0530", Successes:"1", TestCase:"Session4-Logs.script", Warnings:"0")
+2024-03-14 16:10:18.437 +0530	SUCCESS		Execution Time 0:00:00 Session4-Logs.script

@@ -1,0 +1,30 @@
+{
+	"entries": [
+		{
+				"message": "Running Session3-Waits.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 17:25:41.373 +0530"
+			},
+		{
+				"handlerName": "on_session3_waits",
+				"timestamp": "2024-03-14 17:26:03.794 +0530",
+				"scriptName": "Session3-Waits.script",
+				"message": "No Image Found On Screen: \"Chrome-Images/Img-Chrome-Icon\"",
+				"image": "Chrome-Images/Img-Chrome-Icon",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"22.433\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-14 17:25:41 +0530\", Successes:\"0\", TestCase:\"Session3-Waits.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 17:26:03.819 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: doubleclick Error - No Image Found On Screen: \"Chrome-Images/Img-Chrome-Icon\" -- Execution Time 0:00:22 Session3-Waits.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-14 17:26:03.946 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 17:25:41.384 +0530"
+}

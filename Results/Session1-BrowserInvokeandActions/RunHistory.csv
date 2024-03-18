@@ -1,0 +1,56 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2024-03-13 16:45:30.356 +0530,"Failure",0:00:22,1,0,1,"20240313_164530.356/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""Icon_Edge_Browser""",0
+2024-03-13 17:07:41.735 +0530,"Failure",0:00:22,1,0,1,"20240313_170741.735/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""Icon_Edge_Browser""",0
+2024-03-13 17:09:05.977 +0530,"Failure",0:00:00,1,0,1,"20240313_170905.977/LogFile.txt","","File Not Found -- doubleclick Error - Could Not Open Image: Icon_Edge",0
+2024-03-13 17:09:24.327 +0530,"Failure",0:00:53,1,0,1,"20240313_170924.327/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""Icon_Edge_Browser""",0
+2024-03-13 17:11:49.289 +0530,"Failure",0:00:00,1,0,0,"20240313_171149.289/LogFile.txt","","STInvalidNumber -- Value is not a number: '￼'",0
+2024-03-13 17:12:02.444 +0530,"Failure",0:00:50,1,0,1,"20240313_171202.444/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Icon_Edge_Browser.png"" within 30.00 seconds",0
+2024-03-13 17:16:56.337 +0530,"Failure",0:00:23,1,0,1,"20240313_171656.337/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Icon-Reload-Browser""",0
+2024-03-13 17:17:35.792 +0530,"Failure",0:00:23,1,0,1,"20240313_171735.792/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Icon-Edge"" within 3.00 seconds",0
+2024-03-13 17:22:36.940 +0530,"Failure",0:00:23,1,0,1,"20240313_172236.940/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Icon-Edge"" within 3.00 seconds",0
+2024-03-13 17:23:09.405 +0530,"Failure",0:00:23,1,0,1,"20240313_172309.405/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Icon-Edge"" within 3.00 seconds",0
+2024-03-13 17:25:22.842 +0530,"Failure",0:00:23,1,0,1,"20240313_172522.842/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Icon-Reload-Browser"" within 3.00 seconds",0
+2024-03-13 17:25:57.121 +0530,"Failure",0:00:23,1,0,1,"20240313_172557.121/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Icon-Edge"" within 3.00 seconds",0
+2024-03-13 17:26:56.205 +0530,"Failure",0:00:23,1,0,1,"20240313_172656.205/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Icon-Reload-Browser"" within 3.00 seconds",0
+2024-03-13 17:34:23.080 +0530,"Failure",0:00:25,1,0,1,"20240313_173423.080/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Icon-Reload-Browser"" within 5.00 seconds",0
+2024-03-13 17:35:41.643 +0530,"Failure",0:00:36,1,0,1,"20240313_173541.643/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Icon-Reload-Browser"" within 15.00 seconds",0
+2024-03-14 11:28:36.191 +0530,"Failure",0:00:22,1,0,1,"20240314_112836.191/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""Img-Chrome-Icon""",0
+2024-03-14 11:29:03.348 +0530,"Success",0:00:00,0,0,0,"20240314_112903.348/LogFile.txt","","",1
+2024-03-14 11:30:37.825 +0530,"Failure",0:00:22,1,0,1,"20240314_113037.825/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Img-Chrome-Icon.png"" within 2.00 seconds",0
+2024-03-14 11:31:10.616 +0530,"Failure",0:00:22,1,0,1,"20240314_113110.616/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""Img-Chrome-Icon""",0
+2024-03-14 11:31:48.908 +0530,"Success",0:00:00,0,0,0,"20240314_113148.908/LogFile.txt","","",1
+2024-03-14 11:33:40.567 +0530,"Failure",0:00:25,1,0,1,"20240314_113340.567/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Img-Chrome-FullScreen.png"" within 5.00 seconds",0
+2024-03-14 11:35:09.509 +0530,"Success",0:00:00,0,0,0,"20240314_113509.509/LogFile.txt","","",1
+2024-03-14 11:36:36.906 +0530,"Success",0:00:01,0,0,0,"20240314_113636.906/LogFile.txt","","",1
+2024-03-14 11:42:24.645 +0530,"Aborted",0:01:30,1,0,1,"20240314_114224.645/LogFile.txt","","",0
+2024-03-14 11:43:56.501 +0530,"Success",0:00:05,0,0,0,"20240314_114356.501/LogFile.txt","","",1
+2024-03-14 11:46:17.909 +0530,"Failure",0:00:22,1,0,1,"20240314_114617.909/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""Img-Chrome-Icon""",0
+2024-03-14 11:46:45.717 +0530,"Success",0:00:03,0,0,0,"20240314_114645.717/LogFile.txt","","",1
+2024-03-14 12:36:23.780 +0530,"Success",0:00:03,0,0,0,"20240314_123623.780/LogFile.txt","","",1
+2024-03-14 12:41:43.950 +0530,"Aborted",0:00:15,1,0,1,"20240314_124143.950/LogFile.txt","","",0
+2024-03-14 12:42:00.986 +0530,"Success",0:00:03,0,0,0,"20240314_124200.986/LogFile.txt","","",1
+2024-03-14 12:42:51.922 +0530,"Aborted",0:00:15,1,0,1,"20240314_124251.922/LogFile.txt","","",0
+2024-03-14 12:43:08.303 +0530,"Success",0:00:03,0,0,0,"20240314_124308.303/LogFile.txt","","",1
+2024-03-14 12:47:45.505 +0530,"Failure",0:00:04,1,0,0,"20240314_124745.505/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'enter'",0
+2024-03-14 12:50:26.620 +0530,"Success",0:00:06,0,0,0,"20240314_125026.620/LogFile.txt","","",1
+2024-03-14 12:53:37.375 +0530,"Aborted",0:00:40,1,0,1,"20240314_125337.375/LogFile.txt","","",0
+2024-03-14 12:54:18.079 +0530,"Failure",0:00:08,1,0,1,"20240314_125418.079/LogFile.txt","","File Not Found -- press Error - Could Not Open Image: ",0
+2024-03-14 12:56:46.881 +0530,"Success",0:00:10,0,0,0,"20240314_125646.881/LogFile.txt","","",1
+2024-03-14 13:08:12.677 +0530,"Aborted",0:00:18,1,0,1,"20240314_130812.677/LogFile.txt","","",0
+2024-03-14 13:08:31.880 +0530,"Success",0:00:09,0,0,0,"20240314_130831.880/LogFile.txt","","",1
+2024-03-14 13:20:56.074 +0530,"Aborted",0:00:19,1,0,1,"20240314_132056.074/LogFile.txt","","",0
+2024-03-14 13:21:53.240 +0530,"Failure",0:00:09,1,0,0,"20240314_132153.240/LogFile.txt","","BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Second'.",0
+2024-03-14 13:24:46.939 +0530,"Aborted",0:00:06,1,0,0,"20240314_132446.939/LogFile.txt","","",0
+2024-03-14 13:33:26.190 +0530,"Aborted",0:00:11,1,0,1,"20240314_133326.190/LogFile.txt","","",0
+2024-03-14 15:15:24.306 +0530,"Success",0:00:07,0,0,0,"20240314_151524.306/LogFile.txt","","",1
+2024-03-14 15:53:26.860 +0530,"Aborted",0:00:06,1,0,1,"20240314_155326.860/LogFile.txt","","",0
+2024-03-14 15:54:16.160 +0530,"Success",0:00:06,0,0,0,"20240314_155416.160/LogFile.txt","","",1
+2024-03-14 17:25:11.539 +0530,"Success",0:00:08,0,0,0,"20240314_172511.539/LogFile.txt","","",1
+2024-03-15 11:36:37.806 +0530,"Failure",0:00:00,1,0,1,"20240315_113637.806/LogFile.txt","","File Not Found -- doubleclick Error - Could Not Open Image: Chrome-Images/Img-Chrome-Icon",0
+2024-03-15 11:36:57.116 +0530,"Failure",0:00:00,1,0,1,"20240315_113657.116/LogFile.txt","","File Not Found -- doubleclick Error - Could Not Open Image: Chrome-Images/Img-Chrome-Icon",0
+2024-03-15 11:37:22.968 +0530,"Success",0:00:08,0,0,0,"20240315_113722.968/LogFile.txt","","",1
+2024-03-18 11:21:47.428 +0530,"Failure",0:00:23,1,0,1,"20240318_112147.428/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""Chrome-Images/Img-Chrome-Icon""",0
+2024-03-18 11:22:21.405 +0530,"Failure",0:00:22,1,0,1,"20240318_112221.405/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""Chrome-Images/Img-Chrome-Icon""",0
+2024-03-18 11:27:49.128 +0530,"Failure",0:00:26,1,0,1,"20240318_112749.128/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Chrome-Images/Img-Google-Searchbox.png"" within 5.00 seconds",0
+2024-03-18 11:29:11.698 +0530,"Failure",0:00:23,1,0,1,"20240318_112911.698/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""Chrome-Images/Img-Chrome-Icon""",0
+2024-03-18 11:29:44.646 +0530,"Success",0:00:08,0,0,0,"20240318_112944.646/LogFile.txt","","",1

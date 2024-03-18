@@ -1,0 +1,77 @@
+{
+	"entries": [
+		{
+				"message": "Running OCR-2 Search rectangle.script",
+				"identifier": "START",
+				"timestamp": "2024-03-15 15:36:00.449 +0530"
+			},
+		{
+				"handlerName": "on_ocr_2_search_rectangle",
+				"timestamp": "2024-03-15 15:36:00.663 +0530",
+				"scriptName": "OCR-2 Search rectangle.script",
+				"message": "at (37, 345)",
+				"image": "Chrome-Images/Img-Chrome-Icon",
+				"handlerLine": 4,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_ocr_2_search_rectangle",
+				"timestamp": "2024-03-15 15:36:03.497 +0530",
+				"scriptName": "OCR-2 Search rectangle.script",
+				"message": "found at (635, 406)",
+				"image": "Chrome-Images/Img-Google-Searchbox.png",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_ocr_2_search_rectangle",
+				"timestamp": "2024-03-15 15:36:03.505 +0530",
+				"message": "SEARCHRECTANGLE = [481,433,854,573]",
+				"scriptName": "OCR-2 Search rectangle.script",
+				"handlerLine": 7,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_ocr_2_search_rectangle",
+				"timestamp": "2024-03-15 15:36:03.823 +0530",
+				"scriptName": "OCR-2 Search rectangle.script",
+				"message": "at (527, 531)",
+				"image": "(TEXT:\"Wikipedia\")",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"image": "Chrome-Images/Icon-Back",
+				"message": "Timing Problem: Increase search time in script for this search",
+				"identifier": "LogWarning",
+				"timestamp": "2024-03-15 15:36:20.997 +0530"
+			},
+		{
+				"image": "Chrome-Images/Icon-Back",
+				"message": "Timing Problem: Increase search time in script for this search",
+				"identifier": "LogWarning",
+				"timestamp": "2024-03-15 15:36:27.668 +0530"
+			},
+		{
+				"handlerName": "on_ocr_2_search_rectangle",
+				"timestamp": "2024-03-15 15:36:49.700 +0530",
+				"scriptName": "OCR-2 Search rectangle.script",
+				"message": "No Image Found On Screen: \"Chrome-Images/Icon-Back\"",
+				"image": "Chrome-Images/Icon-Back",
+				"handlerLine": 11,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"49.257\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-15 15:36:00 +0530\", Successes:\"0\", TestCase:\"OCR-2 Search rectangle.script\", Warnings:\"2\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-15 15:36:49.715 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"Chrome-Images/Icon-Back\"  Restricted Search Rectangle ((481,433),(854,573))\\n -- Execution Time 0:00:49 OCR-2 Search rectangle.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-15 15:36:50.090 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-15 15:36:00.454 +0530"
+}

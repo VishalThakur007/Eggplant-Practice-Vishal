@@ -1,0 +1,79 @@
+{
+	"entries": [
+		{
+				"message": "Running Session7-Scrolling.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 17:36:34.401 +0530"
+			},
+		{
+				"handlerName": "on_session7_scrolling",
+				"timestamp": "2024-03-14 17:36:34.644 +0530",
+				"scriptName": "Session7-Scrolling.script",
+				"message": "at (37, 345)",
+				"image": "Chrome-Images/Img-Chrome-Icon",
+				"handlerLine": 4,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_session7_scrolling",
+				"timestamp": "2024-03-14 17:36:37.459 +0530",
+				"scriptName": "Session7-Scrolling.script",
+				"message": "found at (635, 406)",
+				"image": "Chrome-Images/Img-Google-Searchbox.png",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_session7_scrolling",
+				"timestamp": "2024-03-14 17:36:37.598 +0530",
+				"scriptName": "Session7-Scrolling.script",
+				"message": "at (635, 406)",
+				"image": "Chrome-Images/Img-Google-Searchbox.png",
+				"handlerLine": 6,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_session7_scrolling",
+				"timestamp": "2024-03-14 17:36:38.523 +0530",
+				"message": "www.wikipedia.com",
+				"scriptName": "Session7-Scrolling.script",
+				"handlerLine": 7,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_session7_scrolling",
+				"timestamp": "2024-03-14 17:36:39.240 +0530",
+				"message": "[return]",
+				"scriptName": "Session7-Scrolling.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_session7_scrolling",
+				"timestamp": "2024-03-14 17:36:41.258 +0530",
+				"message": "[pageDown]",
+				"scriptName": "Session7-Scrolling.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_session7_scrolling",
+				"timestamp": "2024-03-14 17:36:41.975 +0530",
+				"message": "[pageUp]",
+				"scriptName": "Session7-Scrolling.script",
+				"handlerLine": 11,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"10.584\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-14 17:36:34 +0530\", Successes:\"1\", TestCase:\"Session7-Scrolling.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 17:36:44.990 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:10 Session7-Scrolling.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-14 17:36:45.047 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 17:36:34.406 +0530"
+}

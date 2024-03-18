@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Session1-BrowserInvokeandActions_script" package="my new demo.suite" timestamp="2024-03-15 11:36:57.116 +0530"
+ tests="1"  failures="1" errors="1" time="0.204000">
+  <properties>
+   <property name="RunDate" value="2024-03-15 11:36:57.116 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Session1-BrowserInvokeandActions.script" assertions="1" status="error"  time="0.173">
+    <failure type="FAILURE" message="File Not Found: doubleclick Error - Could Not Open Image: Chrome-Images/Img-Chrome-Icon -- Execution Time 0:00:00 Session1-BrowserInvokeandActions.script" />
+    <error type="Exception" message="Could Not Open Image: Chrome-Images/Img-Chrome-Icon" />
+  </testcase>
+ </testsuite>
+</testsuites>

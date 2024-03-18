@@ -1,0 +1,5 @@
+﻿2024-03-14 11:42:24.669 +0530	START		Running First Script.script
+2024-03-14 11:42:24.919 +0530	doubleclick	Img-Chrome-Icon	at (37, 345)	1	on_first_script	First Script.script
+2024-03-14 11:43:54.573 +0530	Exception	GoogleIcon.png	Unable To Find Any Image On Screen "GoogleIcon.png" within 3.00 seconds	3	on_first_script	First Script.script
+2024-03-14 11:43:54.677 +0530	EndTestCase		(Duration:"90.002", Errors:"1", Exceptions:"1", StartTime:"2024-03-14 11:42:24 +0530", Successes:"0", TestCase:"First Script.script", Warnings:"0")
+2024-03-14 11:43:54.692 +0530	ABORTED		Execution Time 0:01:30 First Script.script

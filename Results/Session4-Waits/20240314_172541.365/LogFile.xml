@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Session3-Waits_script" package="my new demo.suite" timestamp="2024-03-14 17:25:41.365 +0530"
+ tests="1"  failures="1" errors="1" time="22.452000">
+  <properties>
+   <property name="RunDate" value="2024-03-14 17:25:41.365 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Session3-Waits.script" assertions="1" status="error"  time="22.433">
+    <failure type="FAILURE" message="Image Not Found: doubleclick Error - No Image Found On Screen: &quot;Chrome-Images/Img-Chrome-Icon&quot; -- Execution Time 0:00:22 Session3-Waits.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;Chrome-Images/Img-Chrome-Icon&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

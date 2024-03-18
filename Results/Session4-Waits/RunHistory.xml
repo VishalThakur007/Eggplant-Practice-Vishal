@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Waits">
+ <run>
+  <RunDate>2024-03-14 15:16:20.117 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>15.646000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240314_151620.117/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 15:16:36.522 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>7.451000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240314_151636.522/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 15:40:53.332 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.183000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240314_154053.332/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- doubleclick Error - Could Not Open Image: Img-Chrome-Icon</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 15:41:03.199 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.167000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240314_154103.199/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- doubleclick Error - Could Not Open Image: Img-Chrome-Icon</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 15:42:50.629 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.180000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240314_154250.629/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- doubleclick Error - Could Not Open Image: Img-Chrome-Icon</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 15:52:29.133 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>8.213000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240314_155229.133/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-14 17:25:41.365 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>22.452000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240314_172541.365/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;Chrome-Images/Img-Chrome-Icon&quot;</ErrorMessage>
+ </run>
+</runHistory>

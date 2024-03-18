@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		4,
+		281,
+		66,
+		128
+	],
+	"lastmodifieddate": 1710482834.3509998,
+	"createddate": 1710395817.6830001,
+	"name": "Img-Chrome-Icon",
+	"lastfounddate": 1710741584.8470001,
+	"ocrcapturestring": "G",
+	"lastfoundlocation": [
+		4,
+		281,
+		66,
+		128
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[33,64]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Chrome-Images/Img-Chrome-Icon.png",
+				"connectionname": "192.168.29.208",
+				"type": 1,
+				"connectionserverid": "192.168.29.208",
+				"capturerect": [
+					4,
+					281,
+					66,
+					128
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "G"
+			}
+	]
+}

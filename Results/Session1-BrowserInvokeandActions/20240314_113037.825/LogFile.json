@@ -1,0 +1,30 @@
+{
+	"entries": [
+		{
+				"message": "Running First Script.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 11:30:37.840 +0530"
+			},
+		{
+				"handlerName": "on_first_script",
+				"timestamp": "2024-03-14 11:31:00.755 +0530",
+				"scriptName": "First Script.script",
+				"message": "Unable To Find Any Image On Screen \"Img-Chrome-Icon.png\" within 2.00 seconds",
+				"image": "Img-Chrome-Icon.png",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"22.928\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-14 11:30:37 +0530\", Successes:\"0\", TestCase:\"First Script.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 11:31:00.774 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: waitfor Error - Unable To Find Any Image On Screen \"Img-Chrome-Icon.png\" within 2.00 seconds -- Execution Time 0:00:22 First Script.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-14 11:31:00.925 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 11:30:37.844 +0530"
+}

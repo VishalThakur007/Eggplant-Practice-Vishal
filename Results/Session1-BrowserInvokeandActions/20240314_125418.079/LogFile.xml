@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="First Script_script" package="my new demo.suite" timestamp="2024-03-14 12:54:18.079 +0530"
+ tests="1"  failures="1" errors="1" time="8.877000">
+  <properties>
+   <property name="RunDate" value="2024-03-14 12:54:18.079 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="First Script.script" assertions="1" status="error"  time="8.835">
+    <failure type="FAILURE" message="File Not Found: press Error - Could Not Open Image:  -- Execution Time 0:00:08 First Script.script" />
+    <error type="Exception" message="Could Not Open Image: " />
+  </testcase>
+ </testsuite>
+</testsuites>

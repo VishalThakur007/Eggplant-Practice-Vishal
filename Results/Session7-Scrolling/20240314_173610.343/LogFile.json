@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running Session7-Scrolling.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 17:36:10.363 +0530"
+			},
+		{
+				"handlerName": "on_session7_scrolling",
+				"timestamp": "2024-03-14 17:36:32.594 +0530",
+				"scriptName": "Session7-Scrolling.script",
+				"message": "No Image Found On Screen: \"Chrome-Images/Img-Chrome-Icon\"",
+				"image": "Chrome-Images/Img-Chrome-Icon",
+				"handlerLine": 4,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"22.268\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-14 17:36:10 +0530\", Successes:\"0\", TestCase:\"Session7-Scrolling.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 17:36:32.640 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:22 Session7-Scrolling.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-14 17:36:32.653 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 17:36:10.370 +0530"
+}

@@ -1,0 +1,15 @@
+﻿//Global Variable
+Put "Ronaldo" into global PlayerName2
+Put global PlayerName2 into PlayerName3  //Why we are using another variable to print second player?
+Log "PlayerName 3 is : " &&PlayerName3
+
+//Property List : It is like a list but in this we use key value pair
+
+Put {FirstName : "Vishal", LastName: "Thakur", Tool: "Eggplant"} into Person
+Log Person
+Log Person.FirstName
+Log Person.LastName
+
+
+
+

@@ -1,0 +1,52 @@
+{
+	"entries": [
+		{
+				"message": "Running Session2-GlobalVariable and PropertyLists.script",
+				"identifier": "START",
+				"timestamp": "2024-03-15 12:02:48.219 +0530"
+			},
+		{
+				"handlerName": "on_session2_globalvariable_and_propertylists",
+				"timestamp": "2024-03-15 12:02:48.419 +0530",
+				"message": "PlayerName 3 is :  Ronaldo",
+				"scriptName": "Session2-GlobalVariable and PropertyLists.script",
+				"handlerLine": 4,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_session2_globalvariable_and_propertylists",
+				"timestamp": "2024-03-15 12:02:48.434 +0530",
+				"message": "{FirstName:\"Vishal\", LastName:\"Thakur\", Tool:\"Eggplant\"}",
+				"scriptName": "Session2-GlobalVariable and PropertyLists.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_session2_globalvariable_and_propertylists",
+				"timestamp": "2024-03-15 12:02:48.446 +0530",
+				"message": "Vishal",
+				"scriptName": "Session2-GlobalVariable and PropertyLists.script",
+				"handlerLine": 10,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_session2_globalvariable_and_propertylists",
+				"timestamp": "2024-03-15 12:02:48.454 +0530",
+				"message": "Thakur",
+				"scriptName": "Session2-GlobalVariable and PropertyLists.script",
+				"handlerLine": 11,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.237\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-15 12:02:48 +0530\", Successes:\"1\", TestCase:\"Session2-GlobalVariable and PropertyLists.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-15 12:02:48.476 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 Session2-GlobalVariable and PropertyLists.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-15 12:02:48.589 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-15 12:02:48.236 +0530"
+}

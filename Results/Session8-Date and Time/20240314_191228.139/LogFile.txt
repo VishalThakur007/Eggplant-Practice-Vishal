@@ -1,0 +1,3 @@
+﻿2024-03-14 19:12:28.157 +0530	START		Running Session8-Date and Time.script
+2024-03-14 19:12:28.400 +0530	EndTestCase		(Duration:"0.237", Errors:"0", Exceptions:"0", StartTime:"2024-03-14 19:12:28 +0530", Successes:"1", TestCase:"Session8-Date and Time.script", Warnings:"0")
+2024-03-14 19:12:28.507 +0530	SUCCESS		Execution Time 0:00:00 Session8-Date and Time.script

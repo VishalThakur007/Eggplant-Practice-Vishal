@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		332,
+		370,
+		607,
+		74
+	],
+	"lastmodifieddate": 1710482835.826,
+	"createddate": 1710400277.029,
+	"name": "Img-Google-Searchbox",
+	"lastfounddate": 1710741589.1339998,
+	"ocrcapturestring": "Q. Search Google or type a URL",
+	"lastfoundlocation": [
+		332,
+		369,
+		607,
+		74
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[303,37]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Chrome-Images/Img-Google-Searchbox.png",
+				"connectionname": "192.168.29.208",
+				"type": 1,
+				"connectionserverid": "192.168.29.208",
+				"capturerect": [
+					332,
+					370,
+					607,
+					74
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Q. Search Google or type a URL"
+			}
+	]
+}

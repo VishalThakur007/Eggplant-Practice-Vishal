@@ -1,0 +1,5 @@
+﻿2024-03-18 11:27:49.207 +0530	START		Running Session1-BrowserInvokeandActions.script
+2024-03-18 11:27:49.577 +0530	doubleclick	Chrome-Images/Img-Chrome-Icon	at (37, 345)	1	on_session1_browserinvokeandactions	Session1-BrowserInvokeandActions.script
+2024-03-18 11:28:15.129 +0530	Exception	Chrome-Images/Img-Google-Searchbox.png	Unable To Find Any Image On Screen "Chrome-Images/Img-Google-Searchbox.png" within 5.00 seconds	2	on_session1_browserinvokeandactions	Session1-BrowserInvokeandActions.script
+2024-03-18 11:28:15.274 +0530	EndTestCase		(Duration:"26.059", Errors:"1", Exceptions:"1", StartTime:"2024-03-18 11:27:49 +0530", Successes:"0", TestCase:"Session1-BrowserInvokeandActions.script", Warnings:"0")
+2024-03-18 11:28:15.458 +0530	FAILURE	Screen_Error.png	Image Not Found: waitfor Error - Unable To Find Any Image On Screen "Chrome-Images/Img-Google-Searchbox.png" within 5.00 seconds -- Execution Time 0:00:26 Session1-BrowserInvokeandActions.script

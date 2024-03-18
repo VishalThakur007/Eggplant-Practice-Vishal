@@ -1,0 +1,4 @@
+﻿2024-03-14 13:20:09.000 +0530	START		Running Second Script.script
+2024-03-14 13:20:09.136 +0530	Log		Second player name is :  Messi	2	on_second_script	Second Script.script
+2024-03-14 13:20:09.164 +0530	EndTestCase		(Duration:"0.157", Errors:"0", Exceptions:"0", StartTime:"2024-03-14 13:20:09 +0530", Successes:"1", TestCase:"Second Script.script", Warnings:"0")
+2024-03-14 13:20:09.212 +0530	SUCCESS		Execution Time 0:00:00 Second Script.script

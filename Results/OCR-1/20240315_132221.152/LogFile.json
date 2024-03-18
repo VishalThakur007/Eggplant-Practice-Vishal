@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running OCR-1.script",
+				"identifier": "START",
+				"timestamp": "2024-03-15 13:22:21.178 +0530"
+			},
+		{
+				"handlerName": "on_ocr_1",
+				"timestamp": "2024-03-15 13:22:31.150 +0530",
+				"scriptName": "OCR-1.script",
+				"message": "No Image Found On Screen: \"Chrome-Images/Img-Chrome-Icon\"",
+				"image": "Chrome-Images/Img-Chrome-Icon",
+				"handlerLine": 12,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"10.025\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-15 13:22:21 +0530\", Successes:\"0\", TestCase:\"OCR-1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-15 13:22:31.208 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:10 OCR-1.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-15 13:22:31.222 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-15 13:22:21.182 +0530"
+}

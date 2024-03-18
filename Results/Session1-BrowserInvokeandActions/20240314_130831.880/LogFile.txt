@@ -1,0 +1,8 @@
+﻿2024-03-14 13:08:31.906 +0530	START		Running First Script.script
+2024-03-14 13:08:32.123 +0530	doubleclick	Img-Chrome-Icon	at (37, 345)	1	on_first_script	First Script.script
+2024-03-14 13:08:37.228 +0530	click	Img-Google-Searchbox.png	at (635, 406)	3	on_first_script	First Script.script
+2024-03-14 13:08:38.153 +0530	typetext		www.wikipedia.com	4	on_first_script	First Script.script
+2024-03-14 13:08:38.870 +0530	typetext		[return]	5	on_first_script	First Script.script
+2024-03-14 13:08:40.876 +0530	Log		Local variable is  Messi	8	on_first_script	First Script.script
+2024-03-14 13:08:40.968 +0530	EndTestCase		(Duration:"9.057", Errors:"0", Exceptions:"0", StartTime:"2024-03-14 13:08:31 +0530", Successes:"1", TestCase:"First Script.script", Warnings:"0")
+2024-03-14 13:08:41.022 +0530	SUCCESS		Execution Time 0:00:09 First Script.script

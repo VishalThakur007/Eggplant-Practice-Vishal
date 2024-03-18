@@ -1,0 +1,23 @@
+﻿//Lists is a ordered sequences of values
+
+//Sequences of values
+put [1,2,3,4,5] into myLists
+put myLists
+
+//Accessing list itmes
+set animals to [giraffe,pony,lion,tiger,elephant]
+put animals
+put item 1 of animals //returns giraffe
+put item 3 to 5 of animals //returns lion,tiger,elephant as indexing starts with 1
+
+//Inserting list items
+insert "dinasour" into animals
+insert "Parrot" into animals
+put animals
+
+//Delete items
+delete item 7 of animals
+put animals
+
+//Counting the number of items
+put the number of items in animals

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="OCR-2 Search rectangle">
+ <run>
+  <RunDate>2024-03-15 15:22:42.688 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>11.297000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240315_152242.688/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-15 15:31:32.979 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>50.255000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240315_153132.979/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome-Images/Back-Icon&quot;  Restricted Search Rectangle ((481,433),(854,573))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-15 15:33:58.566 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>38.755000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240315_153358.566/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-15 15:34:41.402 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>57.991000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240315_153441.402/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-15 15:36:00.430 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>49.283000</Duration>
+  <Errors>1</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240315_153600.430/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome-Images/Icon-Back&quot;  Restricted Search Rectangle ((481,433),(854,573))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-15 15:47:47.943 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>22.453000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240315_154747.943/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;Chrome-Images/Img-Chrome-Icon&quot;</ErrorMessage>
+ </run>
+</runHistory>

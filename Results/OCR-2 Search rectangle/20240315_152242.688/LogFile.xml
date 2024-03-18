@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="OCR-2 Search rectangle_script" package="my new demo.suite" timestamp="2024-03-15 15:22:42.688 +0530"
+ tests="1"  failures="0" errors="0" time="11.297000">
+  <properties>
+   <property name="RunDate" value="2024-03-15 15:22:42.688 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="OCR-2 Search rectangle.script" assertions="1" status="success"  time="11.249">
+  </testcase>
+ </testsuite>
+</testsuites>

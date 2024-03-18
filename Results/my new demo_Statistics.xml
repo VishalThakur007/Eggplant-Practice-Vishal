@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="Session1-BrowserInvokeandActions">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>46</NumberOfRuns>
+  <NumberOfFails>29</NumberOfFails>
+  <FirstRun>2024-03-13 16:45:30 +0530</FirstRun>
+  <LastRun>2024-03-18 11:29:44 +0530</LastRun>
+  <TotalTimeOnSuccess>85.666000</TotalTimeOnSuccess>
+ </script>
+ <script name="Session9-Lists">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-03-14 19:15:55 +0530</FirstRun>
+  <LastRun>2024-03-14 19:25:05 +0530</LastRun>
+  <TotalTimeOnSuccess>0.980000</TotalTimeOnSuccess>
+ </script>
+ <script name="Session7-Scrolling">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-03-14 17:33:45 +0530</FirstRun>
+  <LastRun>2024-03-14 17:37:12 +0530</LastRun>
+  <TotalTimeOnSuccess>44.969000</TotalTimeOnSuccess>
+ </script>
+ <script name="Session3-Logs, IF-else and Assert">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfFails>7</NumberOfFails>
+  <FirstRun>2024-03-14 16:10:18 +0530</FirstRun>
+  <LastRun>2024-03-15 12:25:20 +0530</LastRun>
+  <TotalTimeOnSuccess>0.636000</TotalTimeOnSuccess>
+ </script>
+ <script name="Session4-Waits">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2024-03-14 15:16:36 +0530</FirstRun>
+  <LastRun>2024-03-14 17:25:41 +0530</LastRun>
+  <TotalTimeOnSuccess>15.664000</TotalTimeOnSuccess>
+ </script>
+ <script name="OCR-1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-03-15 13:17:26 +0530</FirstRun>
+  <LastRun>2024-03-15 13:20:39 +0530</LastRun>
+  <TotalTimeOnSuccess>7.498000</TotalTimeOnSuccess>
+ </script>
+ <script name="Session8-Date and Time">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-03-14 19:12:15 +0530</FirstRun>
+  <LastRun>2024-03-14 19:12:28 +0530</LastRun>
+  <TotalTimeOnSuccess>0.536000</TotalTimeOnSuccess>
+ </script>
+ <script name="OCR-2 Search rectangle">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2024-03-15 15:22:42 +0530</FirstRun>
+  <LastRun>2024-03-15 15:47:47 +0530</LastRun>
+  <TotalTimeOnSuccess>11.297000</TotalTimeOnSuccess>
+ </script>
+ <script name="Session5-Senstalk Functions">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-03-14 16:38:49 +0530</FirstRun>
+  <LastRun>2024-03-14 16:38:49 +0530</LastRun>
+  <TotalTimeOnSuccess>0.236000</TotalTimeOnSuccess>
+ </script>
+ <script name="Session2-GlobalVariable and PropertyLists">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>14</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-03-14 13:20:08 +0530</FirstRun>
+  <LastRun>2024-03-15 12:57:47 +0530</LastRun>
+  <TotalTimeOnSuccess>2.528000</TotalTimeOnSuccess>
+ </script>
+</statistics>

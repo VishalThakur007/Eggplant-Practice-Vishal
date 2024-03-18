@@ -1,0 +1,4 @@
+﻿2024-03-15 13:25:05.422 +0530	START		Running OCR-1.script
+2024-03-15 13:25:17.346 +0530	Exception	Chrome-Images/Img-Chrome-Icon	No Image Found On Screen: "Chrome-Images/Img-Chrome-Icon"	12	on_ocr_1	OCR-1.script
+2024-03-15 13:25:17.395 +0530	EndTestCase		(Duration:"11.965", Errors:"1", Exceptions:"1", StartTime:"2024-03-15 13:25:05 +0530", Successes:"0", TestCase:"OCR-1.script", Warnings:"0")
+2024-03-15 13:25:17.415 +0530	ABORTED		Execution Time 0:00:11 OCR-1.script

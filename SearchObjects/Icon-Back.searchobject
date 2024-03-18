@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		4,
+		40,
+		34,
+		39
+	],
+	"lastmodifieddate": 1710497209.8629999,
+	"createddate": 1710496984.4530001,
+	"name": "Icon-Back",
+	"lastfounddate": 1710497191.658,
+	"ocrcapturestring": "<r",
+	"lastfoundlocation": [
+		4,
+		40,
+		34,
+		39
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[17,19]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Chrome-Images/Icon-Back.png",
+				"connectionname": "192.168.29.208",
+				"type": 1,
+				"connectionserverid": "192.168.29.208",
+				"capturerect": [
+					4,
+					40,
+					34,
+					39
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "<r"
+			}
+	]
+}

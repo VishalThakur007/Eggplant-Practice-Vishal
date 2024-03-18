@@ -1,0 +1,4 @@
+﻿2024-03-14 17:35:26.619 +0530	START		Running Session7-Scrolling.script
+2024-03-14 17:35:36.159 +0530	Exception	Chrome-Images/Img-Chrome-Icon	No Image Found On Screen: "Chrome-Images/Img-Chrome-Icon"	4	on_session7_scrolling	Session7-Scrolling.script
+2024-03-14 17:35:36.225 +0530	EndTestCase		(Duration:"9.601", Errors:"1", Exceptions:"1", StartTime:"2024-03-14 17:35:26 +0530", Successes:"0", TestCase:"Session7-Scrolling.script", Warnings:"0")
+2024-03-14 17:35:36.240 +0530	ABORTED		Execution Time 0:00:09 Session7-Scrolling.script

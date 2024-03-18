@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="First Script_script" package="my new demo.suite" timestamp="2024-03-13 17:16:56.337 +0530"
+ tests="1"  failures="1" errors="1" time="23.347000">
+  <properties>
+   <property name="RunDate" value="2024-03-13 17:16:56.337 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="First Script.script" assertions="1" status="error"  time="23.337">
+    <failure type="FAILURE" message="Image Not Found: click Error - No Image Found On Screen: &quot;Icon-Reload-Browser&quot; -- Execution Time 0:00:23 First Script.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;Icon-Reload-Browser&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

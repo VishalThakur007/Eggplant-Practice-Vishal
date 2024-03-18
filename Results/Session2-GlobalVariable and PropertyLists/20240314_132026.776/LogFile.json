@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running Second Script.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 13:20:26.793 +0530"
+			},
+		{
+				"handlerName": "on_second_script",
+				"timestamp": "2024-03-14 13:20:26.850 +0530",
+				"message": "Second player name is :  Ronaldo",
+				"scriptName": "Second Script.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.072\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-14 13:20:26 +0530\", Successes:\"1\", TestCase:\"Second Script.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 13:20:26.873 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 Second Script.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-14 13:20:26.916 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 13:20:26.799 +0530"
+}

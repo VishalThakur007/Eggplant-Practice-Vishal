@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Session9-Lists.script",
+				"identifier": "START",
+				"timestamp": "2024-03-14 19:22:47.678 +0530"
+			},
+		{
+				"message": "(Duration:\"0.147\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-14 19:22:47 +0530\", Successes:\"1\", TestCase:\"Session9-Lists.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-14 19:22:47.837 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 Session9-Lists.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-14 19:22:47.959 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-14 19:22:47.689 +0530"
+}

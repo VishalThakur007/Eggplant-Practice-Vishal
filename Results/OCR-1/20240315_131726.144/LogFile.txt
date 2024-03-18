@@ -1,0 +1,5 @@
+﻿2024-03-15 13:17:26.161 +0530	START		Running OCR-1.script
+2024-03-15 13:17:26.495 +0530	doubleclick	Chrome-Images/Img-Chrome-Icon	at (37, 345)	12	on_ocr_1	OCR-1.script
+2024-03-15 13:17:30.014 +0530	waitfor	Chrome-Images/Img-Google-Searchbox.png	found at (635, 406)	13	on_ocr_1	OCR-1.script
+2024-03-15 13:17:30.092 +0530	EndTestCase		(Duration:"3.92", Errors:"0", Exceptions:"0", StartTime:"2024-03-15 13:17:26 +0530", Successes:"1", TestCase:"OCR-1.script", Warnings:"0")
+2024-03-15 13:17:30.180 +0530	SUCCESS		Execution Time 0:00:03 OCR-1.script

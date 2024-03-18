@@ -1,0 +1,5 @@
+﻿//Run options global properties : We can set the values dynamically for events eg:
+
+-The mouse click delay
+set the mouseClickDelay to .5 
+

@@ -1,0 +1,7 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2024-03-15 15:22:42.688 +0530,"Success",0:00:11,0,0,0,"20240315_152242.688/LogFile.txt","","",1
+2024-03-15 15:31:32.979 +0530,"Failure",0:00:50,1,1,1,"20240315_153132.979/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome-Images/Back-Icon""  Restricted Search Rectangle ((481,433),(854,573))\n",0
+2024-03-15 15:33:58.566 +0530,"Aborted",0:00:38,1,0,1,"20240315_153358.566/LogFile.txt","","",0
+2024-03-15 15:34:41.402 +0530,"Aborted",0:00:57,1,0,1,"20240315_153441.402/LogFile.txt","","",0
+2024-03-15 15:36:00.430 +0530,"Failure",0:00:49,1,2,1,"20240315_153600.430/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome-Images/Icon-Back""  Restricted Search Rectangle ((481,433),(854,573))\n",0
+2024-03-15 15:47:47.943 +0530,"Failure",0:00:22,1,0,1,"20240315_154747.943/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""Chrome-Images/Img-Chrome-Icon""",0

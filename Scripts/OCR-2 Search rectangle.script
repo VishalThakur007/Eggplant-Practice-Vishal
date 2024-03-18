@@ -1,0 +1,25 @@
+﻿//Search rectangle :  We use this search rectangle to capture the image withing a area of scope
+
+
+DoubleClick "Chrome-Images/Img-Chrome-Icon"
+WaitFor 5, "Chrome-Images/Img-Google-Searchbox.png" //Conditional wait
+
+//Set the SearchRectangle to [481,433,854,573] //Setting the OCR area
+//Click text:"Wikipedia" //Performing click action on the selected area
+//wait 5
+
+
+Click text: "Web Store", SearchRectangle: [481,433,854,573]
+wait 3
+
+Set the SearchRectangle to ["ExtremeRightBar_A","ExtremeRightBar_B"] //To make this OCR dynaimc
+Click text:"Gmail"
+
+//Screenpart function handler : using this handler **********Need to understand
+ 
+ 
+
+
+
+
+

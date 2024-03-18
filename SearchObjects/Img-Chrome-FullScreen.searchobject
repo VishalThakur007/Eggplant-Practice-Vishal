@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		969,
+		16,
+		28,
+		31
+	],
+	"lastmodifieddate": 1710396166.1469998,
+	"createddate": 1710396166.1469998,
+	"name": "Img-Chrome-FullScreen",
+	"lastfounddate": 1710396166.2950001,
+	"ocrcapturestring": "□",
+	"lastfoundlocation": [
+		969,
+		16,
+		28,
+		31
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[14,15]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Img-Chrome-FullScreen.png",
+				"connectionname": "192.168.29.208",
+				"type": 1,
+				"connectionserverid": "192.168.29.208",
+				"capturerect": [
+					969,
+					16,
+					28,
+					31
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "□"
+			}
+	]
+}

@@ -1,0 +1,4 @@
+﻿2024-03-13 17:22:36.962 +0530	START		Running First Script.script
+2024-03-13 17:23:00.364 +0530	Exception	Icon-Edge	Unable To Find Any Image On Screen "Icon-Edge" within 3.00 seconds	1	on_first_script	First Script.script
+2024-03-13 17:23:00.385 +0530	EndTestCase		(Duration:"23.412", Errors:"1", Exceptions:"1", StartTime:"2024-03-13 17:22:36 +0530", Successes:"0", TestCase:"First Script.script", Warnings:"0")
+2024-03-13 17:23:00.614 +0530	FAILURE	Screen_Error.png	Image Not Found: waitfor Error - Unable To Find Any Image On Screen "Icon-Edge" within 3.00 seconds -- Execution Time 0:00:23 First Script.script
