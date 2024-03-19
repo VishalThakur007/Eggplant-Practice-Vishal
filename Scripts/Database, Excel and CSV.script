@@ -1,0 +1,44 @@
+﻿//1. Working with Excel:
+//We can access the data and manipulate the data in sheets
+
+//Define the DB connection information
+set myDB to {type:"excel", file:ResourcePath("Eggplant-Doc.xlsx"), writable:Yes}
+
+//Access the sheet1 worksheet of the workbook as a table
+put table "Sheet1" of myDB into peopleTable
+
+//Fetch a specific record from sheet1
+put the record of peopleTable where State is "Mumbai" into mumbaiRecord
+
+put mumbaiRecord 
+//Updating the mumbai population
+put 1000000 into mumbaiRecord's population
+
+
+put mumbaiRecord
+put mumbaiRecord is a record //it will be changing the data of excel sheet in realtime
+
+
+//2. Working with CSV
+//In CSV file, key value pair is seperated by comma, but we use '#' because if there is comma in the text then it can be handled using ''#''
+
+
+set capitalsDB to {
+	type : "csv", 
+	file : resourcePath ("Countries.txt") ,
+	delimiter: "#",
+	trimValues : Yes ,
+	writable : Yes
+}
+
+//must be a single character
+//A CSV file always treated as a single table 
+//If needed you can access Table1
+
+put table 1 of capitalsDB into capitalTable
+put the recordInfo of capitalsTable
+
+//Fetch a specific record
+set US to the record of capitalsDB where country contains "India" 
+put US
+}

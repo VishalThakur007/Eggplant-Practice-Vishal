@@ -1,0 +1,12 @@
+﻿//We can trigger the eamil as well.
+
+Runwithnewresults "Contacts"
+
+Put the results into Outcome
+Log outcome
+
+SendMail {To: "vt2671435@gmail.com" , \subject : "Login script results:" &&Outcome's status,\ 
+              body:"Find attached the logfile for the script run.",\
+              attachment : (Outcome's logfile)}
+
+}
