@@ -1,0 +1,9 @@
+﻿//Launch URL handler
+
+to handle BrowserInvoction
+	
+	DoubleClick "Images/Chrome-Desktop-Icon"
+	WaitFor 10, "Images/SearchGoogleortypeaURL.png"
+	
+end BrowserInvoction
+

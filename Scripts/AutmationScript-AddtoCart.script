@@ -1,0 +1,52 @@
+﻿//Calling the handler
+Base.BrowserInvoction
+TypeText "Flipkart"
+TypeText return
+wait 5
+
+Set the SearchRectangle to ("Flipkart1_A","Flipkart1_B")
+Click text: "Flipkart"
+Set the SearchRectangle to [] //Closing the search rectangle
+WaitFor 10, "Images/FlipkartExplorePlus"
+
+//Using search rectangle cordinates
+Set the SearchRectangle to ["SearchIphone_A","SearchIphone_B"]
+Click text:"Search for Products, Brands and More"
+TypeText "Iphone15"
+TypeText return
+Set the SearchRectangle to []
+WaitFor 15, "Images/IphoneImage"
+
+Click "Images/AppleiPhone15Blue128GB" //Direct image click 
+WaitFor 5, "Images/ADDTOCARTBtn"
+Click "Images/ADDTOCARTBtn", "PLACEORDER"  //Direct image click
+WaitFor 5, "Images/PLACEORDER"
+
+If ImageFound("Images/PLACEORDER") then
+	Log "Iphone added to cart successfully !!"
+Else
+	Log "Item Not added"
+	
+End if
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

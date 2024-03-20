@@ -1,0 +1,60 @@
+﻿//Calling the handler
+Base.BrowserInvoction
+
+TypeText "Flipkart"
+TypeText return
+wait 5
+
+Set the SearchRectangle to ("Flipkart1_A","Flipkart1_B")
+Click text: "Flipkart"
+Set the SearchRectangle to [] //Closing the search rectangle
+WaitFor 8, "Images/FlipkartExplorePlus"
+
+Set the SearchRectangle to ("Login-Text_A","Login-Text_B")
+Click text: "Login"
+Set the SearchRectangle to []
+WaitFor 5, "Images/RequestOTP"
+
+Set the SearchRectangle to ("EnterNumber_A","EnterNumber_B")
+TypeText "9599296780"
+Set the SearchRectangle to []
+
+Set the SearchRectangle to ("RequestOTPButton_A","RequestOTPButton_B")
+Click text: "Request OTP"
+Set the SearchRectangle to []
+
+If ImageFound("Images/Verify.png") then
+	log "OTP Send Successfully"
+Else
+	log "User is not landing on OTP screen"
+End if
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
