@@ -1,0 +1,14 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2024-03-21 16:53:15.322 +0530,"Aborted",0:00:07,1,0,0,"20240321_165315.322/LogFile.txt","","",0
+2024-03-21 16:53:26.453 +0530,"Aborted",0:00:20,1,0,1,"20240321_165326.453/LogFile.txt","","",0
+2024-03-21 16:53:50.206 +0530,"Success",0:00:08,0,0,0,"20240321_165350.206/LogFile.txt","","",1
+2024-03-21 16:57:44.914 +0530,"Aborted",0:00:05,1,0,0,"20240321_165744.914/LogFile.txt","","",0
+2024-03-21 16:57:53.674 +0530,"Failure",0:00:22,1,0,1,"20240321_165753.674/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""windowsImages/windowsIcon""",0
+2024-03-21 16:59:18.660 +0530,"Failure",0:00:10,1,0,0,"20240321_165918.660/LogFile.txt","","Invalid Property -- Cannot set global property 'SEARCHRECTANGLES'",0
+2024-03-21 17:00:19.098 +0530,"Aborted",0:00:05,1,0,0,"20240321_170019.098/LogFile.txt","","",0
+2024-03-21 17:00:45.362 +0530,"Failure",0:00:10,1,0,0,"20240321_170045.362/LogFile.txt","","Invalid Property -- Cannot set global property 'SEARCHRECTANGLES'",0
+2024-03-21 17:08:49.152 +0530,"Aborted",0:00:06,1,0,0,"20240321_170849.152/LogFile.txt","","",0
+2024-03-21 17:09:03.496 +0530,"Aborted",0:00:23,1,0,1,"20240321_170903.496/LogFile.txt","","",0
+2024-03-21 17:09:31.445 +0530,"Failure",0:00:30,1,0,1,"20240321_170931.445/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""windowsImages/GoogleImage"" within 5.00 seconds",0
+2024-03-21 17:10:43.128 +0530,"Aborted",0:00:13,1,0,1,"20240321_171043.128/LogFile.txt","","",0
+2024-03-21 17:11:29.405 +0530,"Failure",0:00:30,1,0,1,"20240321_171129.405/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""windowsImages/GoogleImage"" within 5.00 seconds",0

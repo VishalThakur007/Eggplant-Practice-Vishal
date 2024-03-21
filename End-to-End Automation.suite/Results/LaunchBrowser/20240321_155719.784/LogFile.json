@@ -1,0 +1,86 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchBrowser.script",
+				"identifier": "START",
+				"timestamp": "2024-03-21 15:57:19.799 +0530"
+			},
+		{
+				"handlerName": "on_readcsv",
+				"timestamp": "2024-03-21 15:57:19.933 +0530",
+				"message": "testSpecificData",
+				"scriptName": "Common.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2024-03-21 15:57:19.942 +0530",
+				"message": "\"C:\\Users\\Public\\Desktop\\Google Chrome.lnk\"",
+				"scriptName": "LaunchBrowser.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 15:57:20.065 +0530",
+				"scriptName": "Common.script",
+				"message": "at (22, 748)",
+				"image": "windowsImages/windowsIcon",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 15:57:21.029 +0530",
+				"scriptName": "Common.script",
+				"message": "at (191, 749)",
+				"image": "windowsImages/windowsSearch",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 15:57:21.769 +0530",
+				"message": "run",
+				"scriptName": "Common.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 15:57:22.485 +0530",
+				"message": "[return]",
+				"scriptName": "Common.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 15:57:23.761 +0530",
+				"message": "\"C:\\Users\\Public\\Desktop\\Google Chrome.lnk\"",
+				"scriptName": "Common.script",
+				"handlerLine": 7,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 15:57:24.480 +0530",
+				"message": "[return]",
+				"scriptName": "Common.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"8.39\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-03-21 15:57:19 +0530\", Successes:\"0\", TestCase:\"LaunchBrowser.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-21 15:57:28.204 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:08 LaunchBrowser.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-21 15:57:28.221 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-21 15:57:19.806 +0530"
+}

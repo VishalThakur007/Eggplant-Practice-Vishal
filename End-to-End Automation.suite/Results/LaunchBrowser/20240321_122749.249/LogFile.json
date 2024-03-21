@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchBrowser.script",
+				"identifier": "START",
+				"timestamp": "2024-03-21 12:27:49.263 +0530"
+			},
+		{
+				"message": "(Duration:\"0.184\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-03-21 12:27:49 +0530\", Successes:\"0\", TestCase:\"LaunchBrowser.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-21 12:27:49.456 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Workbook Error: Worksheet Sheet1 doesn't exist -- Execution Time 0:00:00 LaunchBrowser.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-21 12:27:49.579 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-21 12:27:49.269 +0530"
+}

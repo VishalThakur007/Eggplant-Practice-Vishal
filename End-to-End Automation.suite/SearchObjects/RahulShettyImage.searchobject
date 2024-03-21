@@ -1,0 +1,46 @@
+{
+	"lastmodifieddate": 1711020892.6929998,
+	"lastfoundlocation": [
+		9,
+		90,
+		90,
+		108
+	],
+	"originalcapturelocation": [
+		9,
+		90,
+		90,
+		108
+	],
+	"createddate": 1711020859.5539999,
+	"lastfounddate": 1711021117.309,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[45,54]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "windowsImages/RahulShettyImage.png",
+				"connectionname": "192.168.2.13",
+				"type": 1,
+				"capturerect": [
+					9,
+					90,
+					90,
+					108
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.2.13"
+			}
+	],
+	"name": "RahulShettyImage"
+}

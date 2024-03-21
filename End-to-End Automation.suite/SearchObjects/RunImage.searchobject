@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		75,
+		607,
+		326,
+		29
+	],
+	"lastmodifieddate": 1711006989.7130001,
+	"createddate": 1711006973.066,
+	"name": "RunImage",
+	"lastfounddate": 1711007057.119,
+	"ocrcapturestring": "cmd \\z",
+	"lastfoundlocation": [
+		75,
+		607,
+		326,
+		29
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[163,14]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "windowsImages/RunImage.png",
+				"connectionname": "192.168.2.13",
+				"type": 1,
+				"connectionserverid": "192.168.2.13",
+				"capturerect": [
+					75,
+					607,
+					326,
+					29
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "cmd \\z"
+			}
+	]
+}

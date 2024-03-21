@@ -1,0 +1,6 @@
+﻿2024-03-21 15:52:48.095 +0530	START		Running LaunchBrowser.script
+2024-03-21 15:52:48.184 +0530	Log		testSpecificData	8	on_readcsv	Common.script
+2024-03-21 15:52:48.196 +0530	Log		"C:\Users\Public\Desktop\Google Chrome.lnk"	3	on_launchbrowser	LaunchBrowser.script
+2024-03-21 15:53:10.551 +0530	Exception	windowsImages/windowsIcon	No Image Found On Screen: "windowsImages/windowsIcon"	3	on_invokebrowser	Common.script
+2024-03-21 15:53:10.594 +0530	EndTestCase		(Duration:"22.495", Errors:"1", Exceptions:"1", StartTime:"2024-03-21 15:52:48 +0530", Successes:"0", TestCase:"LaunchBrowser.script", Warnings:"0")
+2024-03-21 15:53:10.695 +0530	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "windowsImages/windowsIcon" -- Execution Time 0:00:22 LaunchBrowser.script

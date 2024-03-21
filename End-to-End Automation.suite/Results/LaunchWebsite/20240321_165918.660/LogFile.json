@@ -1,0 +1,129 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchWebsite.script",
+				"identifier": "START",
+				"timestamp": "2024-03-21 16:59:18.670 +0530"
+			},
+		{
+				"handlerName": "on_readcsv",
+				"timestamp": "2024-03-21 16:59:18.807 +0530",
+				"message": "testSpecificData",
+				"scriptName": "Common.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_launchwebsite",
+				"timestamp": "2024-03-21 16:59:18.821 +0530",
+				"message": "\"C:\\Users\\Public\\Desktop\\Google Chrome.lnk\"",
+				"scriptName": "LaunchWebsite.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 16:59:18.935 +0530",
+				"scriptName": "Common.script",
+				"message": "at (22, 748)",
+				"image": "windowsImages/windowsIcon",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 16:59:19.741 +0530",
+				"scriptName": "Common.script",
+				"message": "at (191, 749)",
+				"image": "windowsImages/windowsSearch",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 16:59:20.481 +0530",
+				"message": "run",
+				"scriptName": "Common.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 16:59:21.201 +0530",
+				"message": "[return]",
+				"scriptName": "Common.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 16:59:22.478 +0530",
+				"message": "\"C:\\Users\\Public\\Desktop\\Google Chrome.lnk\"",
+				"scriptName": "Common.script",
+				"handlerLine": 7,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 16:59:23.195 +0530",
+				"message": "[return]",
+				"scriptName": "Common.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_waitforelement",
+				"timestamp": "2024-03-21 16:59:26.317 +0530",
+				"scriptName": "Common.script",
+				"message": "found at (514, 293)",
+				"image": "windowsImages/GoogleImage",
+				"handlerLine": 3,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_loadwebpage",
+				"timestamp": "2024-03-21 16:59:26.641 +0530",
+				"message": "RahulShettyPractice",
+				"scriptName": "Common.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loadwebpage",
+				"timestamp": "2024-03-21 16:59:27.358 +0530",
+				"message": "[return]",
+				"scriptName": "Common.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchwebsite",
+				"timestamp": "2024-03-21 16:59:28.385 +0530",
+				"message": "SEARCHRECTANGLE = [\"SearchRectangles/practicePage1_A\",\"SearchRectangles/practicePage1_B\"]",
+				"scriptName": "LaunchWebsite.script",
+				"handlerLine": 10,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_launchwebsite",
+				"timestamp": "2024-03-21 16:59:28.629 +0530",
+				"scriptName": "LaunchWebsite.script",
+				"message": "at (90, 404)",
+				"image": "(TEXT:\"Practice Page\")",
+				"handlerLine": 11,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"9.985\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-03-21 16:59:18 +0530\", Successes:\"0\", TestCase:\"LaunchWebsite.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-21 16:59:28.662 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Invalid Property: Cannot set global property 'SEARCHRECTANGLES' -- Execution Time 0:00:10 LaunchWebsite.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-21 16:59:28.744 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-21 16:59:18.675 +0530"
+}

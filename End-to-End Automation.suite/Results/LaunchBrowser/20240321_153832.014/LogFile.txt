@@ -1,0 +1,5 @@
+﻿2024-03-21 15:38:32.032 +0530	START		Running LaunchBrowser.script
+2024-03-21 15:38:32.165 +0530	Log		testSpecificData	8	on_readcsv	Common.script
+2024-03-21 15:38:32.177 +0530	Log		"C:\Users\Public\Desktop\Google Chrome.lnk"	3	on_launchbrowser	LaunchBrowser.script
+2024-03-21 15:38:32.194 +0530	EndTestCase		(Duration:"0.156", Errors:"0", Exceptions:"0", StartTime:"2024-03-21 15:38:32 +0530", Successes:"1", TestCase:"LaunchBrowser.script", Warnings:"0")
+2024-03-21 15:38:32.241 +0530	SUCCESS		Execution Time 0:00:00 LaunchBrowser.script

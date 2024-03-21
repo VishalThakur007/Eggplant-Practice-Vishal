@@ -1,0 +1,70 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchBrowser.script",
+				"identifier": "START",
+				"timestamp": "2024-03-21 13:15:35.176 +0530"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 13:15:35.452 +0530",
+				"scriptName": "Common.script",
+				"message": "at (22, 748)",
+				"image": "windowsImages/windowsIcon",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 13:15:36.300 +0530",
+				"scriptName": "Common.script",
+				"message": "at (191, 749)",
+				"image": "windowsImages/windowsSearch",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 13:15:37.039 +0530",
+				"message": "run",
+				"scriptName": "Common.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 13:15:37.756 +0530",
+				"message": "[return]",
+				"scriptName": "Common.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 13:15:39.617 +0530",
+				"message": "{_pk_:1001, directory:@\"C:\\\\Users\\\\Public\\\\Desktop\\\\Google Chrome.lnk\", name:\"Chrome\"}",
+				"scriptName": "Common.script",
+				"handlerLine": 19,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 13:15:40.336 +0530",
+				"message": "[return]",
+				"scriptName": "Common.script",
+				"handlerLine": 20,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"5.179\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-21 13:15:35 +0530\", Successes:\"1\", TestCase:\"LaunchBrowser.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-21 13:15:40.361 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:05 LaunchBrowser.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-21 13:15:40.412 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-21 13:15:35.181 +0530"
+}

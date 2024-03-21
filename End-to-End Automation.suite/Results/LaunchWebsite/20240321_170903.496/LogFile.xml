@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="LaunchWebsite_script" package="End-to-End Automation.suite" timestamp="2024-03-21 17:09:03.496 +0530"
+ tests="1"  failures="0" errors="0" time="23.043000">
+  <properties>
+   <property name="RunDate" value="2024-03-21 17:09:03.496 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="LaunchWebsite.script" assertions="1" status="error"  time="23.016">
+    <error type="Exception" message="Unable To Find Any Image On Screen &quot;windowsImages/GoogleImage&quot; within 5.00 seconds" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,54 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchBrowser.script",
+				"identifier": "START",
+				"timestamp": "2024-03-21 13:05:25.713 +0530"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 13:05:25.962 +0530",
+				"scriptName": "Common.script",
+				"message": "at (22, 748)",
+				"image": "windowsImages/windowsIcon",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 13:05:26.839 +0530",
+				"scriptName": "Common.script",
+				"message": "at (191, 749)",
+				"image": "windowsImages/windowsSearch",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 13:05:27.577 +0530",
+				"message": "run",
+				"scriptName": "Common.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 13:05:28.294 +0530",
+				"message": "[return]",
+				"scriptName": "Common.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"2.619\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-21 13:05:25 +0530\", Successes:\"1\", TestCase:\"LaunchBrowser.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-21 13:05:28.352 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:02 LaunchBrowser.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-21 13:05:28.399 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-21 13:05:25.729 +0530"
+}

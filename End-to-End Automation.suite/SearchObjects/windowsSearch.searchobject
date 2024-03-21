@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		48,
+		731,
+		287,
+		37
+	],
+	"lastmodifieddate": 1711001462.7379999,
+	"createddate": 1711001431.869,
+	"name": "windowsSearch",
+	"lastfounddate": 1711021290.4130001,
+	"ocrcapturestring": "P [Type here to search",
+	"lastfoundlocation": [
+		48,
+		731,
+		287,
+		37
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[143,18]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "windowsImages/windowsSearch.png",
+				"connectionname": "192.168.2.13",
+				"type": 1,
+				"connectionserverid": "192.168.2.13",
+				"capturerect": [
+					48,
+					731,
+					287,
+					37
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "P [Type here to search"
+			}
+	]
+}

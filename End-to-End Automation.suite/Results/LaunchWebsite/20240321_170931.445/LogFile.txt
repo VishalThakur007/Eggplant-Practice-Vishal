@@ -1,0 +1,12 @@
+﻿2024-03-21 17:09:31.471 +0530	START		Running LaunchWebsite.script
+2024-03-21 17:09:31.624 +0530	Log		testSpecificData	8	on_readcsv	Common.script
+2024-03-21 17:09:31.637 +0530	Log		"C:\Users\Public\Desktop\Google Chrome.lnk"	3	on_launchwebsite	LaunchWebsite.script
+2024-03-21 17:09:31.753 +0530	click	windowsImages/windowsIcon	at (22, 748)	3	on_invokebrowser	Common.script
+2024-03-21 17:09:32.682 +0530	click	windowsImages/windowsSearch	at (191, 749)	4	on_invokebrowser	Common.script
+2024-03-21 17:09:33.422 +0530	typetext		run	5	on_invokebrowser	Common.script
+2024-03-21 17:09:34.168 +0530	typetext		[return]	6	on_invokebrowser	Common.script
+2024-03-21 17:09:35.449 +0530	typetext		"C:\Users\Public\Desktop\Google Chrome.lnk"	7	on_invokebrowser	Common.script
+2024-03-21 17:09:36.171 +0530	typetext		[return]	8	on_invokebrowser	Common.script
+2024-03-21 17:10:01.464 +0530	Exception	windowsImages/GoogleImage	Unable To Find Any Image On Screen "windowsImages/GoogleImage" within 5.00 seconds	3	on_waitforelement	Common.script
+2024-03-21 17:10:01.528 +0530	EndTestCase		(Duration:"30.052", Errors:"1", Exceptions:"1", StartTime:"2024-03-21 17:09:31 +0530", Successes:"0", TestCase:"LaunchWebsite.script", Warnings:"0")
+2024-03-21 17:10:01.654 +0530	FAILURE	Screen_Error.png	Image Not Found: waitfor Error - Unable To Find Any Image On Screen "windowsImages/GoogleImage" within 5.00 seconds -- Execution Time 0:00:30 LaunchWebsite.script

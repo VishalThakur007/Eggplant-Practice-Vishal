@@ -1,0 +1,6 @@
+﻿2024-03-21 16:53:26.474 +0530	START		Running LaunchWebsite.script
+2024-03-21 16:53:26.566 +0530	Log		testSpecificData	8	on_readcsv	Common.script
+2024-03-21 16:53:26.576 +0530	Log		"C:\Users\Public\Desktop\Google Chrome.lnk"	3	on_launchwebsite	LaunchWebsite.script
+2024-03-21 16:53:46.738 +0530	Exception	windowsImages/windowsIcon	No Image Found On Screen: "windowsImages/windowsIcon"	3	on_invokebrowser	Common.script
+2024-03-21 16:53:46.786 +0530	EndTestCase		(Duration:"20.306", Errors:"1", Exceptions:"1", StartTime:"2024-03-21 16:53:26 +0530", Successes:"0", TestCase:"LaunchWebsite.script", Warnings:"0")
+2024-03-21 16:53:46.801 +0530	ABORTED		Execution Time 0:00:20 LaunchWebsite.script

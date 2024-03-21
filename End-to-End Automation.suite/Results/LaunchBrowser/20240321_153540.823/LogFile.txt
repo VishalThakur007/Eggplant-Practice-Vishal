@@ -1,0 +1,5 @@
+﻿2024-03-21 15:35:40.842 +0530	START		Running LaunchBrowser.script
+2024-03-21 15:35:40.974 +0530	Log		testSpecificData	8	on_readcsv	Common.script
+2024-03-21 15:35:40.986 +0530	Log			3	on_launchbrowser	LaunchBrowser.script
+2024-03-21 15:35:41.015 +0530	EndTestCase		(Duration:"0.162", Errors:"0", Exceptions:"0", StartTime:"2024-03-21 15:35:40 +0530", Successes:"1", TestCase:"LaunchBrowser.script", Warnings:"0")
+2024-03-21 15:35:41.073 +0530	SUCCESS		Execution Time 0:00:00 LaunchBrowser.script

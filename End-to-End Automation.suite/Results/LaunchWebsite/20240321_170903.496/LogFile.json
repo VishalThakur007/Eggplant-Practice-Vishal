@@ -1,0 +1,95 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchWebsite.script",
+				"identifier": "START",
+				"timestamp": "2024-03-21 17:09:03.513 +0530"
+			},
+		{
+				"handlerName": "on_readcsv",
+				"timestamp": "2024-03-21 17:09:03.679 +0530",
+				"message": "testSpecificData",
+				"scriptName": "Common.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_launchwebsite",
+				"timestamp": "2024-03-21 17:09:03.689 +0530",
+				"message": "\"C:\\Users\\Public\\Desktop\\Google Chrome.lnk\"",
+				"scriptName": "LaunchWebsite.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 17:09:03.813 +0530",
+				"scriptName": "Common.script",
+				"message": "at (22, 748)",
+				"image": "windowsImages/windowsIcon",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 17:09:04.703 +0530",
+				"scriptName": "Common.script",
+				"message": "at (191, 749)",
+				"image": "windowsImages/windowsSearch",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 17:09:05.442 +0530",
+				"message": "run",
+				"scriptName": "Common.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 17:09:06.161 +0530",
+				"message": "[return]",
+				"scriptName": "Common.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 17:09:07.439 +0530",
+				"message": "\"C:\\Users\\Public\\Desktop\\Google Chrome.lnk\"",
+				"scriptName": "Common.script",
+				"handlerLine": 7,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 17:09:08.161 +0530",
+				"message": "[return]",
+				"scriptName": "Common.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_waitforelement",
+				"timestamp": "2024-03-21 17:09:26.481 +0530",
+				"scriptName": "Common.script",
+				"message": "Unable To Find Any Image On Screen \"windowsImages/GoogleImage\" within 5.00 seconds",
+				"image": "windowsImages/GoogleImage",
+				"handlerLine": 3,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"23.016\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-21 17:09:03 +0530\", Successes:\"0\", TestCase:\"LaunchWebsite.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-21 17:09:26.541 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:23 LaunchWebsite.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-21 17:09:26.564 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-21 17:09:03.523 +0530"
+}

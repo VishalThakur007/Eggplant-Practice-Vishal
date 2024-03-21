@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Common.script",
+				"identifier": "START",
+				"timestamp": "2024-03-21 13:06:20.307 +0530"
+			},
+		{
+				"message": "(Duration:\"0.001\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-21 13:06:20 +0530\", Successes:\"1\", TestCase:\"Common.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-21 13:06:20.312 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 Common.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-21 13:06:20.403 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-21 13:06:20.310 +0530"
+}

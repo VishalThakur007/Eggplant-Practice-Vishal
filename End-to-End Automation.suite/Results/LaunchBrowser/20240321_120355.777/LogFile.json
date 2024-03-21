@@ -1,0 +1,55 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchBrowser.script",
+				"identifier": "START",
+				"timestamp": "2024-03-21 12:03:55.828 +0530"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 12:03:56.088 +0530",
+				"scriptName": "Common.script",
+				"message": "at (22, 748)",
+				"image": "windowsImages/windowsIcon",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 12:03:57.353 +0530",
+				"scriptName": "Common.script",
+				"message": "at (191, 749)",
+				"image": "windowsImages/windowsSearch",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 12:03:58.106 +0530",
+				"message": "run",
+				"scriptName": "Common.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 12:03:58.824 +0530",
+				"message": "[return]",
+				"scriptName": "Common.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"3.095\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-03-21 12:03:55 +0530\", Successes:\"0\", TestCase:\"LaunchBrowser.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-21 12:03:58.957 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STDatabaseError: Where clause specifies invalid column name 'pathName' (no such column) -- Execution Time 0:00:03 LaunchBrowser.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-21 12:03:59.440 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-21 12:03:55.854 +0530"
+}

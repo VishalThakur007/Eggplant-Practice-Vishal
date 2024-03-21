@@ -1,0 +1,45 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchWebsite.script",
+				"identifier": "START",
+				"timestamp": "2024-03-21 16:53:26.474 +0530"
+			},
+		{
+				"handlerName": "on_readcsv",
+				"timestamp": "2024-03-21 16:53:26.566 +0530",
+				"message": "testSpecificData",
+				"scriptName": "Common.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_launchwebsite",
+				"timestamp": "2024-03-21 16:53:26.576 +0530",
+				"message": "\"C:\\Users\\Public\\Desktop\\Google Chrome.lnk\"",
+				"scriptName": "LaunchWebsite.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 16:53:46.738 +0530",
+				"scriptName": "Common.script",
+				"message": "No Image Found On Screen: \"windowsImages/windowsIcon\"",
+				"image": "windowsImages/windowsIcon",
+				"handlerLine": 3,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"20.306\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-21 16:53:26 +0530\", Successes:\"0\", TestCase:\"LaunchWebsite.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-21 16:53:46.786 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:20 LaunchWebsite.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-03-21 16:53:46.801 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-21 16:53:26.478 +0530"
+}

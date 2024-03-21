@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		359,
+		239,
+		310,
+		108
+	],
+	"lastmodifieddate": 1711016399.5050001,
+	"createddate": 1711016392.98,
+	"name": "GoogleImage",
+	"lastfounddate": 1711020652.9879999,
+	"ocrcapturestring": "oogle",
+	"lastfoundlocation": [
+		359,
+		239,
+		310,
+		108
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[155,54]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "windowsImages/GoogleImage.png",
+				"connectionname": "192.168.2.13",
+				"type": 1,
+				"connectionserverid": "192.168.2.13",
+				"capturerect": [
+					359,
+					239,
+					310,
+					108
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "oogle"
+			}
+	]
+}

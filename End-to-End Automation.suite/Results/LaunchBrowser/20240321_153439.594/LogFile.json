@@ -1,0 +1,35 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchBrowser.script",
+				"identifier": "START",
+				"timestamp": "2024-03-21 15:34:39.614 +0530"
+			},
+		{
+				"handlerName": "on_readcsv",
+				"timestamp": "2024-03-21 15:34:39.744 +0530",
+				"message": "testSpecificData",
+				"scriptName": "Common.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_launchbrowser",
+				"timestamp": "2024-03-21 15:34:39.758 +0530",
+				"scriptName": "LaunchBrowser.script",
+				"identifier": "Log",
+				"handlerLine": 4
+			},
+		{
+				"message": "(Duration:\"0.153\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-03-21 15:34:39 +0530\", Successes:\"1\", TestCase:\"LaunchBrowser.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-21 15:34:39.778 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 LaunchBrowser.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-03-21 15:34:39.828 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-21 15:34:39.625 +0530"
+}

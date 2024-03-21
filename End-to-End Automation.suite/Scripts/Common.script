@@ -1,0 +1,73 @@
+﻿to  InvokeBrowser dataSet
+	
+	click "windowsImages/windowsIcon"
+	click "windowsImages/windowsSearch"
+	TypeText "run"
+	TypeText return
+	TypeText dataSet
+	TypeText return
+	
+	
+	//Define the DB connection information
+	//set myDB to {type:"excel", file:ResourcePath("Paths.xlsx"), writable:Yes}
+	
+	//Access the sheet1 worksheet of the workbook as a table
+	//put table "Sheet1" of myDB into pathTable
+	
+	//Fetch a specific record from sheet1
+	//put the record of pathTable where Name is "Chrome" into chromeRecord
+	
+	//put chromeRecord
+	
+	//TypeText chromeRecord
+	//TypeText return
+	
+end InvokeBrowser
+
+--------------------------------------------------
+
+to readCSV filePath
+	put CSVValue of file ResourcePath (filePath) into global testData
+	
+	repeat for each item of testData
+		
+		put testData into global testSpecificData
+		
+		Log testSpecificData
+		
+	end repeat
+	
+end readCSV
+------------------------------------------------
+
+to readTestData fileName
+	readCSV fileName
+	put global testSpecificData into global testData
+	
+	
+end readTestData
+
+------------------------------------------------
+
+to Waitforelement time, image
+	
+	WaitFor time, image
+	
+end Waitforelement
+
+-------------------------------------------------
+
+to loadWebPage URL
+
+	TypeText URL
+	TypeText return
+	
+end loadWebPage
+
+-------------------------------------------------
+
+
+
+
+
+

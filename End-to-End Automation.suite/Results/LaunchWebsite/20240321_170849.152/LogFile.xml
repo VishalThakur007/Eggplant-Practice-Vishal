@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="LaunchWebsite_script" package="End-to-End Automation.suite" timestamp="2024-03-21 17:08:49.152 +0530"
+ tests="1"  failures="0" errors="0" time="6.199000">
+  <properties>
+   <property name="RunDate" value="2024-03-21 17:08:49.152 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="LaunchWebsite.script" assertions="1" status="failure"  time="6.187">
+    <failure type="FAILURE" message="See main script" />
+  </testcase>
+ </testsuite>
+</testsuites>

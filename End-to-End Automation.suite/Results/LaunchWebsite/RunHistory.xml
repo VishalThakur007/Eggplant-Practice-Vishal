@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="LaunchWebsite">
+ <run>
+  <RunDate>2024-03-21 16:53:15.322 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>7.660000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240321_165315.322/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-21 16:53:26.453 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>20.332000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240321_165326.453/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-21 16:53:50.206 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>8.734000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240321_165350.206/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-21 16:57:44.914 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>5.883000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240321_165744.914/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-21 16:57:53.674 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>22.504000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240321_165753.674/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;windowsImages/windowsIcon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-21 16:59:18.660 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240321_165918.660/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Invalid Property -- Cannot set global property &#x27;SEARCHRECTANGLES&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-21 17:00:19.098 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>5.814000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240321_170019.098/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-21 17:00:45.362 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.462000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240321_170045.362/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Invalid Property -- Cannot set global property &#x27;SEARCHRECTANGLES&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-21 17:08:49.152 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>6.199000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240321_170849.152/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-21 17:09:03.496 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>23.043000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240321_170903.496/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-21 17:09:31.445 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>30.081000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240321_170931.445/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;windowsImages/GoogleImage&quot; within 5.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-21 17:10:43.128 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>13.694000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240321_171043.128/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-03-21 17:11:29.405 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>30.553000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240321_171129.405/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;windowsImages/GoogleImage&quot; within 5.00 seconds</ErrorMessage>
+ </run>
+</runHistory>

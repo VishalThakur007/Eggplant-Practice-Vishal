@@ -1,0 +1,3 @@
+﻿2024-03-21 15:00:50.651 +0530	START		Running LaunchBrowser.script
+2024-03-21 15:00:50.800 +0530	EndTestCase		(Duration:"0.14", Errors:"1", Exceptions:"0", StartTime:"2024-03-21 15:00:50 +0530", Successes:"0", TestCase:"LaunchBrowser.script", Warnings:"0")
+2024-03-21 15:00:50.897 +0530	FAILURE	Screen_Error.png	STUnknownMessage: ERROR: No Such Command: 'readcsv' -- Execution Time 0:00:00 LaunchBrowser.script

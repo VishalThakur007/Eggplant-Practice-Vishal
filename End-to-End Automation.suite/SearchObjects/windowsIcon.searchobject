@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		5,
+		731,
+		34,
+		34
+	],
+	"lastmodifieddate": 1711001287.4749999,
+	"createddate": 1711001252.96,
+	"name": "windowsIcon",
+	"lastfounddate": 1711021289.608,
+	"ocrcapturestring": "□",
+	"lastfoundlocation": [
+		5,
+		731,
+		34,
+		34
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[17,17]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "windowsImages/windowsIcon.png",
+				"connectionname": "192.168.2.13",
+				"type": 1,
+				"connectionserverid": "192.168.2.13",
+				"capturerect": [
+					5,
+					731,
+					34,
+					34
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "□"
+			}
+	]
+}

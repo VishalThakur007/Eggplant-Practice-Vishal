@@ -1,0 +1,7 @@
+﻿2024-03-21 13:05:25.713 +0530	START		Running LaunchBrowser.script
+2024-03-21 13:05:25.962 +0530	click	windowsImages/windowsIcon	at (22, 748)	3	on_invokebrowser	Common.script
+2024-03-21 13:05:26.839 +0530	click	windowsImages/windowsSearch	at (191, 749)	4	on_invokebrowser	Common.script
+2024-03-21 13:05:27.577 +0530	typetext		run	5	on_invokebrowser	Common.script
+2024-03-21 13:05:28.294 +0530	typetext		[return]	6	on_invokebrowser	Common.script
+2024-03-21 13:05:28.352 +0530	EndTestCase		(Duration:"2.619", Errors:"0", Exceptions:"0", StartTime:"2024-03-21 13:05:25 +0530", Successes:"1", TestCase:"LaunchBrowser.script", Warnings:"0")
+2024-03-21 13:05:28.399 +0530	SUCCESS		Execution Time 0:00:02 LaunchBrowser.script

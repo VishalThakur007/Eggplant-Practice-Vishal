@@ -1,0 +1,19 @@
+﻿Common.readCSV "Sheet1.csv"
+put global testData into testData
+log testData.Directory
+
+Common.InvokeBrowser testData.Directory
+
+Common.Waitforelement 5,"windowsImages/GoogleImage"
+
+Common.loadWebPage "RahulShettyPractice"
+
+Click "windowsImages/PracticePage"
+
+If ImageFound("windowsImages/RahulShettyImage") then
+	Log "User has landed on practice website successfully"
+Else
+	Log "User is not landing on desired website !"
+End if
+
+

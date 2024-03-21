@@ -1,0 +1,46 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchWebsite.script",
+				"identifier": "START",
+				"timestamp": "2024-03-21 16:57:53.690 +0530"
+			},
+		{
+				"handlerName": "on_readcsv",
+				"timestamp": "2024-03-21 16:57:53.781 +0530",
+				"message": "testSpecificData",
+				"scriptName": "Common.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_launchwebsite",
+				"timestamp": "2024-03-21 16:57:53.794 +0530",
+				"message": "\"C:\\Users\\Public\\Desktop\\Google Chrome.lnk\"",
+				"scriptName": "LaunchWebsite.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_invokebrowser",
+				"timestamp": "2024-03-21 16:58:16.134 +0530",
+				"scriptName": "Common.script",
+				"message": "No Image Found On Screen: \"windowsImages/windowsIcon\"",
+				"image": "windowsImages/windowsIcon",
+				"handlerLine": 3,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"22.482\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-03-21 16:57:53 +0530\", Successes:\"0\", TestCase:\"LaunchWebsite.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-21 16:58:16.179 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"windowsImages/windowsIcon\" -- Execution Time 0:00:22 LaunchWebsite.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-21 16:58:16.301 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-21 16:57:53.696 +0530"
+}

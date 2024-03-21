@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		12,
+		304,
+		56,
+		84
+	],
+	"lastmodifieddate": 1711001271.826,
+	"createddate": 1711001087.7220001,
+	"name": "Chrome-Desktop-Icon",
+	"lastfounddate": 1711001212.2519999,
+	"ocrcapturestring": "c",
+	"lastfoundlocation": [
+		12,
+		304,
+		56,
+		84
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[28,42]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Browser-Images/Chrome-Desktop-Icon.png",
+				"connectionname": "192.168.2.13",
+				"type": 1,
+				"connectionserverid": "192.168.2.13",
+				"capturerect": [
+					12,
+					304,
+					56,
+					84
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "c"
+			}
+	]
+}

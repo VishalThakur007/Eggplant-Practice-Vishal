@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchBrowser.script",
+				"identifier": "START",
+				"timestamp": "2024-03-21 11:42:29.509 +0530"
+			},
+		{
+				"message": "(Duration:\"0.219\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-03-21 11:42:29 +0530\", Successes:\"0\", TestCase:\"LaunchBrowser.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-03-21 11:42:29.744 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STInvalidNumber: Value is not a number: 'windowsImages' -- Execution Time 0:00:00 LaunchBrowser.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-03-21 11:42:29.858 +0530"
+			}
+	],
+	"createdTimestamp": "2024-03-21 11:42:29.518 +0530"
+}

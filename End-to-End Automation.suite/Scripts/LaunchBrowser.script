@@ -1,0 +1,10 @@
+﻿Common.readCSV "Sheet1.csv"
+put global testData into testData
+log testData.Directory
+
+Common.InvokeBrowser testData.Directory
+
+Common.Waitforelement 5,"windowsImages/GoogleImage"
+
+
+
