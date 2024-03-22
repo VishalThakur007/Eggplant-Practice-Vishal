@@ -1,0 +1,28 @@
+﻿Common.readCSV "Sheet1.csv"
+put global testData into testData
+log testData.Directory
+
+Common.InvokeBrowser testData.Directory
+
+Common.Waitforelement 15,"windowsImages/GoogleImage"
+
+Common.loadWebPage "RahulShettyPractice"
+
+Common.Waitforelement 12,"windowsImages/PracticePage"
+
+Common.clickImage "windowsImages/PracticePage"
+
+Common.Waitforelement 12,"windowsImages/RahulShettyImage"
+
+Set the SearchRectangle to ["UrlBottomRight_A","UrlBottomRight_B"] 	
+If ImageFound (text:"rahulshettyacademy.com/AutomationPractice/")  then
+	LogSuccess "User has successfully landed on practice screen"	
+	Else
+	LogError "User is not getting landed on practice screen"
+End if
+Set the SearchRectangle to []
+
+Repeat with EveryImageLocation("windowsImages/CheckboxExample")
+	click it
+End Repeat
+

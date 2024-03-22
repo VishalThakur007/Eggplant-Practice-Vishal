@@ -24,7 +24,7 @@
 	
 end InvokeBrowser
 
---------------------------------------------------
+--------------------Handler for read CSV------------------------------
 
 to readCSV filePath
 	put CSVValue of file ResourcePath (filePath) into global testData
@@ -47,7 +47,7 @@ to readTestData fileName
 	
 end readTestData
 
-------------------------------------------------
+----------------Handler for wait--------------------------------
 
 to Waitforelement time, image
 	
@@ -55,7 +55,7 @@ to Waitforelement time, image
 	
 end Waitforelement
 
--------------------------------------------------
+-----------------Handler for load URL--------------------------------
 
 to loadWebPage URL
 
@@ -64,9 +64,31 @@ to loadWebPage URL
 	
 end loadWebPage
 
--------------------------------------------------
 
+---------------------Handler for dropdown----------------------------
 
+to chooseValueFromDropdown image, value
+	
+	click image: image
+	click text: value
+	
+end chooseValueFromDropdown
+
+---------------------Handler for radiobutton---------------------------
+
+to checBoxRadioButton image
+	
+	click image: image
+	
+end checBoxRadioButton
+
+---------------------Handler for image click --------------------------
+
+to clickImage imageName
+
+	click imageName
+	
+end clickImage
 
 
 
